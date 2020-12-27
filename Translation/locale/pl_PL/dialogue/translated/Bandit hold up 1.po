@@ -1,0 +1,488 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 14604-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 14604-Dialogue?(4).mod:0
+msgid "/OI/, /RUNT/!"
+msgstr "/OI/, gnojku!"
+
+#. Id: 14604-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 14604-Dialogue?(4).mod:1
+msgid "/OI/, /IDIOT/!"
+msgstr "/OI/, idioto!"
+
+#. Id: 14604-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 14604-Dialogue?(4).mod:2
+msgid "/OI/, you /BOY/!"
+msgstr "/OI/, ty, /BOY/!"
+
+#. Id: 14605-Dialogue (4).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14604-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. Id: 3746-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (3225-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=0, Tag: -1
+#. Id: 13647-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13646-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spotting a generic crime
+#. Id: 15269-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. Id: 15705-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (15704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 14605-Dialogue?(4).mod:0 3746-gamedata.base:0 13647-Escapes.mod:2 15269-Dialogue.mod:2 15705-Dialogue.mod:5
+msgid "Get over here!"
+msgstr "Chodź tu!"
+
+#. Id: 14605-Dialogue (4).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14604-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. Id: 14550-Dialogue (4).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7284-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. Id: 44695-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12433-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44698-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13871-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 15332-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (14584-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up
+#. Id: 44403-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44326-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug spots bounty
+#. -- Condition: Who: ME, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 49217-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49216-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamper picking fights
+#. Id: 44969-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#. Id: 42306-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42304-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper polite shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 44728-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15277-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 18197-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18196-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug harrassment attack
+#. Id: 45211-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45210-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King joins fight
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 14605-Dialogue?(4).mod:1 14550-Dialogue?(4).mod:0 44695-Dialogue.mod:3 44698-Dialogue.mod:2 15332-Dialogue.mod:3 44403-Dialogue.mod:0 49217-Dialogue.mod:0 44969-Dialogue.mod:0 42306-Dialogue.mod:0 44728-Dialogue.mod:0 18197-Dialogue.mod:0 45211-Dialogue.mod:0
+msgid "Come 'ere!"
+msgstr "Podejdź no!"
+
+#. Id: 14605-Dialogue (4).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14604-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#: 14605-Dialogue?(4).mod:2
+msgid "Hold still!"
+msgstr "Stój!"
+
+#. Id: 14605-Dialogue (4).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (14604-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. Id: 42019-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#: 14605-Dialogue?(4).mod:3 42019-Dialogue.mod:2
+msgid "Hold it!"
+msgstr "Zatrzymaj się!"
+
+#. Id: 14605-Dialogue (4).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (14604-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. Id: 16393-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#: 14605-Dialogue?(4).mod:4 16393-Dialogue.mod:1
+msgid "Don't move!"
+msgstr "Nie ruszaj się!"
+
+#. Id: 14609-Dialogue (4).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (14605-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 14609-Dialogue?(4).mod:0
+msgid "Don't even think about runnin'!"
+msgstr "Nawet nie próbuj uciekać!"
+
+#. Id: 14609-Dialogue (4).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (14605-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 14609-Dialogue?(4).mod:1
+msgid "You dare try 'n run from me!"
+msgstr "Spróbuj tylko uciec!"
+
+#. Id: 14610-Dialogue (4).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14609-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 14610-Dialogue?(4).mod:0
+msgid "I said no /FUCKING/ runnin'!"
+msgstr "Mówię, żadnego jebanego uciekania!"
+
+#. Id: 14613-Dialogue (4).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (14610-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 14613-Dialogue?(4).mod:0
+msgid "You wanna get /FUCKEDUP/!? Quit runnin'!"
+msgstr "Mam cię rozjebać!? Przestań biec!"
+
+#. Id: 14617-Dialogue (4).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (14613-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 14617-Dialogue?(4).mod:0
+msgid "/GODDAMN/ morons..."
+msgstr "Cholerne głupki."
+
+#. Id: 14617-Dialogue (4).mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (14613-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 14617-Dialogue?(4).mod:1
+msgid "/GODDAMN/ cretins..."
+msgstr "Durni kretyni..."
+
+#. Id: 14617-Dialogue (4).mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (14613-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 14617-Dialogue?(4).mod:2
+msgid "/GODDAMN/ chumps..."
+msgstr "Cholerne gnojki..."
+
+#. Id: 14617-Dialogue (4).mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (14613-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 14617-Dialogue?(4).mod:3
+msgid "/GODDAMN/ /INSULT/s"
+msgstr "Jebane debile..."
+
+#. Id: 14625-Dialogue (4).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (14617-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. Id: 97878-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97876-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. Id: 3734-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit join in fight
+#. Id: 97861-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97860-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hired thug base attack
+#. Id: 98715-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (98714-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally second chance
+#. Id: 42289-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (42282-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: patriot see neutral
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. Id: 7655-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 14625-Dialogue?(4).mod:0 97878-Dialogue.mod:0 3734-gamedata.base:4 97861-Dialogue.mod:0 98715-Dialogue.mod:0 42289-gamedata.base:0 7655-Dialogue.mod:2
+msgid "Get 'em!"
+msgstr "Brać ich!"
+
+#. Id: 14625-Dialogue (4).mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (14617-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#: 14625-Dialogue?(4).mod:1
+msgid "Make 'em bleed!"
+msgstr "Niech krwawią!"
+
+#. Id: 14625-Dialogue (4).mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (14617-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#: 14625-Dialogue?(4).mod:2
+msgid "Kill 'em! Go for the eyes!"
+msgstr "Zabić! Celować w oczy!"
+
+#. Id: 14625-Dialogue (4).mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (14617-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#: 14625-Dialogue?(4).mod:3
+msgid "Cut 'em down!"
+msgstr "Ściąć ich!"
+
+#. Id: 14625-Dialogue (4).mod
+#. -- Index: 6.4
+#. -- Parent line: 5 (14617-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#: 14625-Dialogue?(4).mod:4
+msgid "Teach 'em how it's done!"
+msgstr "Pokażcie im jak to się robi!"
+
+#. Id: 14625-Dialogue (4).mod
+#. -- Index: 6.5
+#. -- Parent line: 5 (14617-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#: 14625-Dialogue?(4).mod:5
+msgid "Teach 'em a lesson!"
+msgstr "Dajcie im nauczkę!"
+
+#. Id: 14625-Dialogue (4).mod
+#. -- Index: 6.6
+#. -- Parent line: 5 (14617-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#: 14625-Dialogue?(4).mod:6
+msgid "Mess 'em up!"
+msgstr "Rozjebać ich!"
+
+#. Id: 14618-Dialogue (4).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (14613-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 14618-Dialogue?(4).mod:0
+msgid "/FUCKING/ /IDIOT/..."
+msgstr "Jebany idiota..."
+
+#. Id: 14618-Dialogue (4).mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (14613-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 14618-Dialogue?(4).mod:1
+msgid "Gutless /IDIOT/..."
+msgstr "Nie masz jaj, debilu..."
+
+#. Id: 14626-Dialogue (4).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (14610-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 14626-Dialogue?(4).mod:0
+msgid "You want me to /SLITYOURTHROAT/, /IDIOT/?!"
+msgstr "Mam ci rozwalić gardło, debilu?!"
+
+#. Id: 14626-Dialogue (4).mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (14610-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 14626-Dialogue?(4).mod:1
+msgid "Quit runnin' or I'll /SLITYOURTHROAT/!"
+msgstr "Przestań uciekać albo poderżnę ci gardło!"
+
+#. Id: 14611-Dialogue (4).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14609-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. Id: 1532726-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1532724-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt tax evasion campaign
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 41880-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (41879-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Slave check interrogation --Unfinished--
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>5000, Tag: -1
+#. Id: 15845-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 97967-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98208-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>200, Tag: -1
+#. Id: 97968-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98208-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>500, Tag: -1
+#. Id: 97969-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98208-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>1500, Tag: -1
+#. Id: 6951-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6948-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. Id: 98171-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98170-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt 3 ally
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>1500, Tag: -1
+#: 14611-Dialogue?(4).mod:0 1532726-Dialogue.mod:0 41880-Dialogue.mod:0 15845-Dialogue.mod:0 97967-Dialogue.mod:0 97968-Dialogue.mod:0 97969-Dialogue.mod:0 6951-Dialogue.mod:0 98171-Dialogue.mod:0
+msgid "Here..."
+msgstr "Tutaj..."
+
+#. Id: 14606-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 14606-Dialogue?(4).mod:0
+msgid "/OI/, /RUNT/s!"
+msgstr "/OI/, gnojki!"
+
+#. Id: 14606-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 14606-Dialogue?(4).mod:1
+msgid "/OI/, /BASTARD/s!"
+msgstr "/OI/, chujki!"
+
+#. Id: 14606-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 14606-Dialogue?(4).mod:2
+msgid "/OI/, you lot!"
+msgstr "/OI/, wy tam!"
+

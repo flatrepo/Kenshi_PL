@@ -1,0 +1,657 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 48363-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48363-Dialogue.mod:0
+msgid "Wanna play catcrawlers? Full six rollback gets the girl!"
+msgstr "Chcesz zagrać w Pełzacza? Sześć pełnych rzutów zgarnia dziewczynkę!"
+
+#. Id: 48363-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48363-Dialogue.mod:1
+msgid "Up for a game o' catcrawlers, /OUTLANDER/? Full six rollback gets the girl! "
+msgstr "Masz ochotę na partyjkę Pełzacza, /OUTLANDER/? Sześć pełnych rzutów zgarnia dziewczynkę!"
+
+#. Id: 48364-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48363-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100, Tag: -1
+#: 48364-Dialogue.mod:0
+msgid "Sure, why not."
+msgstr "Jasne, czemu nie."
+
+#. Id: 48364-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48363-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100, Tag: -1
+#: 48364-Dialogue.mod:1
+msgid "Sure, okay."
+msgstr "Spoko."
+
+#. Id: 48364-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (48363-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100, Tag: -1
+#: 48364-Dialogue.mod:2
+msgid "Hell, what's the harm in it..."
+msgstr "Cholera, czemu nie."
+
+#. Id: 48364-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (48363-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100, Tag: -1
+#: 48364-Dialogue.mod:3
+msgid "Okay, let's play."
+msgstr "Dobra, zagrajmy."
+
+#. Id: 48369-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48364-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48369-Dialogue.mod:0
+msgid "Okay, /GAMBLE/ and /GAMBLE/!... "
+msgstr "Okej, /GAMBLE/ i /GAMBLE/!... "
+
+#. Id: 48372-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48369-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48372-Dialogue.mod:0
+msgid "... And we got a buxom red! Fishing with the buxom red or rolling back, /OUTLANDER/?"
+msgstr "No i mamy dorodną czerwień! Łowisz z dorodną czerwienią czy rzucasz jeszcze raz, /OUTLANDER/?"
+
+#. Id: 48377-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48372-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. Id: 48391-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48373-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. Id: 48400-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48374-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. Id: 48426-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48375-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. Id: 48409-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48376-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. Id: 50584-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#. Id: 50585-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#: 48377-Dialogue.mod:0 48391-Dialogue.mod:0 48400-Dialogue.mod:0 48426-Dialogue.mod:0 48409-Dialogue.mod:0 50584-rebirth.mod:0 50585-rebirth.mod:0
+msgid "Fish!"
+msgstr "Łowię!"
+
+#. Id: 48415-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48377-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48415-Dialogue.mod:0
+msgid "Okay, pulling out! And we're fishing with the buxom red! /GAMBLE/ and /GAMBLE/..."
+msgstr "Okej, wyciągamy! Łowimy z dorodną czerwienią! /GAMBLE/ i /GAMBLE/..."
+
+#. Id: 48416-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48415-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48416-Dialogue.mod:0
+msgid "... And it's a dryout with a wolf tail! Bad luck, /OUTLANDER/. Chance at a catback and play again?"
+msgstr "No i mamy osuszenie z wilczym ogonem! Brak szczęścia, /OUTLANDER/. Chcesz się teraz odegrać?"
+
+#. Id: 48417-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48415-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#. Id: 48412-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48411-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48417-Dialogue.mod:0 48412-Dialogue.mod:0
+msgid "Goal! And /HEHAS/ licked it with a hungry gutter! 200 Cats, congratulations, /OUTLANDER/... Playing again?"
+msgstr "Brawo! Mamy czysty klaps głodnym rozpruwaczem! 200 catunów, gratulacje, /OUTLANDER/... Grasz jeszcze raz?"
+
+#. Id: 48418-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48415-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48418-Dialogue.mod:0
+msgid "And it's a clean lick with a chubby nine! 200 Cats, congratulations, /OUTLANDER/... Playing again?"
+msgstr "Zatem czysty klaps z grubą dziewiątką! 200 catunów, gratulacje, /OUTLANDER/... Chcesz jeszcze?"
+
+#. Id: 48419-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48415-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48419-Dialogue.mod:0
+msgid "Goal! And /HEHAS/ licked it with a stoneroller! 200 Cats, congratulations, /OUTLANDER/... Playing again?"
+msgstr "Świetnie! Mamy czystego klapsa z kamieniarzem! 200 catunów, gratulacje, /OUTLANDER/... Gramy dalej?"
+
+#. Id: 48420-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48415-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48420-Dialogue.mod:0
+msgid "And it's a clean lick with an arrow in the neck! 200 Cats, congratulations, /OUTLANDER/... Playing again?"
+msgstr "No i wypada czysty klaps ze strzałą w szyi! 200 catunów, gratulacje, /OUTLANDER/... Lecimy dalej?"
+
+#. Id: 48421-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48415-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48421-Dialogue.mod:0
+msgid "Goal! And /HEHAS/ licked it with a plank! 200 Cats, congratulations, /OUTLANDER/... Playing again?"
+msgstr "Strzał w dziesiątkę! Mamy czysty klaps z deską! 200 catunów, gratulacje, /OUTLANDER/... Gramy dalej?"
+
+#. Id: 48378-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48372-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. Id: 48392-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48373-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. Id: 48401-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48374-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. Id: 48427-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48375-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. Id: 48410-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48376-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48378-Dialogue.mod:0 48392-Dialogue.mod:0 48401-Dialogue.mod:0 48427-Dialogue.mod:0 48410-Dialogue.mod:0
+msgid "Roll back!"
+msgstr "Rzucaj jeszcze raz!"
+
+#. Id: 48383-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48378-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48383-Dialogue.mod:0
+msgid "Okay, /GAMBLE/! Cats in the house! And we're rolling back with the buxom red! Rolling, rolling..."
+msgstr "Okej, /GAMBLE/! Kotki w domu! Rzucamy jeszcze raz z dorodną czerwienią! Toczy się, toczy..."
+
+#. Id: 48380-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48383-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48380-Dialogue.mod:0
+msgid "Holy crap! Wolf tail! Close stroke with a full rollback gets the girl! 600 Cats! Going for a hot chain, /OUTLANDER/? Play again?"
+msgstr "Cholera! Wilczy ogon! Blistki strzał z pełnym rzutem zdobywa dziewczynkę! 600 catunów! Celujesz w gorącą linię, /OUTLANDER/? Chcesz grać jeszcze?"
+
+#. Id: 48382-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48383-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#. Id: 48424-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48425-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48382-Dialogue.mod:0 48424-Dialogue.mod:0
+msgid "... And it's a dryout with a chubby nine! Bad luck, /OUTLANDER/. Chance at a catback and play again?"
+msgstr "No i mamy wysuszenie z grubą dziewiątką! Brak szczęścia, /OUTLANDER/. Chcesz się odegrać?"
+
+#. Id: 48379-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48372-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. Id: 40798-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civilian witness assault
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 48379-Dialogue.mod:0 40798-Dialogue.mod:9
+msgid "Aaah!"
+msgstr "Aaach!"
+
+#. Id: 48379-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (48372-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48379-Dialogue.mod:1
+msgid "Kill me."
+msgstr "Zabij mnie."
+
+#. Id: 48379-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (48372-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48379-Dialogue.mod:3
+msgid "Bah!"
+msgstr ""
+
+#. Id: 48379-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (48372-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48379-Dialogue.mod:4
+msgid "I wish I was dead."
+msgstr "Chcę już zdechnąć."
+
+#. Id: 48373-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48369-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48373-Dialogue.mod:0
+msgid "... And we got a chubby nine! Fishing with the chubby nine or rolling back, /OUTLANDER/?"
+msgstr "No i mamy grubą dziewiątkę! Łowimy z grubą dziewiątką czy rzucamy jeszcze raz, /OUTLANDER/?"
+
+#. Id: 48422-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48391-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48422-Dialogue.mod:0
+msgid "Okay, pulling out! And we're fishing with the chubby nine! /GAMBLE/ and /GAMBLE/…"
+msgstr "Dobra, wyciąganko! Łowimy z grubą dziewiątką! /GAMBLE/ i /GAMBLE/..."
+
+#. Id: 48423-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48422-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48423-Dialogue.mod:0
+msgid "... And it's a dryout with a buxom red! Bad luck, /OUTLANDER/. Chance at a catback and play again?"
+msgstr "Ech, trafiło się wysuszenie z dorodną czerwienią! Nieszczęście, /OUTLANDER/. Chcesz się odegrać?"
+
+#. Id: 48393-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48392-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48393-Dialogue.mod:0
+msgid "Okay, /GAMBLE/! Cats in the house! And we're rolling back with a chubby nine! Rolling, rolling…"
+msgstr "Dobra, /GAMBLE/! Kotki w domu! Rzucamy ponownie z grubą dziewiątką! Toczy się, toczy..."
+
+#. Id: 48394-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48393-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48394-Dialogue.mod:0
+msgid "Goal! And /HEHAS/ licked it with a wolf tail! 200 Cats, congratulations, /OUTLANDER/... Playing again?"
+msgstr "Brawo! Mamy czysty klaps z wilczym ogonem! Gratulacje, 200 catunów dla ciebie, /OUTLANDER/... Lecimy dalej?"
+
+#. Id: 48395-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48393-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48395-Dialogue.mod:0
+msgid "And it's a clean lick with a buxom red! 200 Cats, congratulations, /OUTLANDER/... Playing again?"
+msgstr "Jej, czysty klaps z dorodną czerwienią! 200 catunów dla ciebie, /OUTLANDER/... Gramy dalej?"
+
+#. Id: 48396-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48393-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48396-Dialogue.mod:0
+msgid "... And it's a dryout with a stone roller! Bad luck, /OUTLANDER/. Chance at a catback and play again?"
+msgstr "No i mamy wysuszenie z kamieniarzem! Nieszczęście, /OUTLANDER/. Chcesz grać jeszcze?"
+
+#. Id: 48398-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48393-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#. Id: 48434-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48433-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48398-Dialogue.mod:0 48434-Dialogue.mod:0
+msgid "... And it's a dryout with a hungry gutter! Bad luck, /OUTLANDER/. Chance at a catback and play again?"
+msgstr "I mamy wysuszenie z głodnym rozpruwaczem! Zły los, /OUTLANDER/. Chcesz spróbować jeszcze?"
+
+#. Id: 48399-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48393-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48399-Dialogue.mod:0
+msgid "... And it's a dryout with an arrow in the neck! Bad luck, /OUTLANDER/. Chance at a catback and play again?"
+msgstr "I wypada wysuszenie ze strzałą w szyi! Nie masz szczęścia, /OUTLANDER/. Chcesz się odegrać?"
+
+#. Id: 48406-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48393-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48406-Dialogue.mod:0
+msgid "... And it's a dryout with a plank! Bad luck, /OUTLANDER/. Chance at a catback and play again?"
+msgstr "Ach, wypadło wysuszenie z deską! Brak szczęścia, /OUTLANDER/. Chcesz jeszcze raz zagrać?"
+
+#. Id: 48413-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48373-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48413-Dialogue.mod:0
+msgid "A chubby wha?"
+msgstr "Grube co?"
+
+#. Id: 48413-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (48373-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48413-Dialogue.mod:1
+msgid "A what now?"
+msgstr "Że co?"
+
+#. Id: 48413-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (48373-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48413-Dialogue.mod:3
+msgid "Fishing with a chubby...huh?"
+msgstr "Łowimy z grubą... Co?"
+
+#. Id: 48374-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48369-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48374-Dialogue.mod:0
+msgid "... And we got a stoneroller! Fishing with the stoneroller or rolling back, /OUTLANDER/?"
+msgstr "Trafia się kamieniarz! Łowimy z kamieniarzem czy rzucamy jeszcze raz, /OUTLANDER/?"
+
+#. Id: 48425-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48400-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48425-Dialogue.mod:0
+msgid "Okay, pulling out! And we're fishing with the stoneroller! /GAMBLE/ and /GAMBLE/…"
+msgstr "Okej, wyciągamy! Łowimy z kamieniarzem! /GAMBLE/ i /GAMBLE/..."
+
+#. Id: 48402-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48401-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48402-Dialogue.mod:0
+msgid "Okay, /GAMBLE/! Cats in the house! And we're rolling back with a stoneroller! Rolling, rolling…"
+msgstr "Okej, /GAMBLE/! Kotki w domu! Rzucamy jeszcze raz z kamieniarzem! Toczy się, toczy..."
+
+#. Id: 48404-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48404-Dialogue.mod:0
+msgid "Goal! And /HEHAS/ licked it with a chubby nine! 200 Cats, congratulations, /OUTLANDER/... Playing again?"
+msgstr "Brawo! Mamy klapsa z grubą dziewiątką! 200 catunów, /OUTLANDER/, brawo... Gramy dalej?"
+
+#. Id: 48414-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48374-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48414-Dialogue.mod:0
+msgid "Hmm, let me think..."
+msgstr "Hmm, niech pomyślę..."
+
+#. Id: 48414-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (48374-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48414-Dialogue.mod:1
+msgid "Hmm..."
+msgstr ""
+
+#. Id: 48414-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (48374-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48414-Dialogue.mod:2
+msgid "Let me see..."
+msgstr "Pozwól, że-"
+
+#. Id: 48414-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (48374-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48414-Dialogue.mod:3
+msgid "Hmm, tough choice..."
+msgstr "Hmm, trudny wybór..."
+
+#. Id: 48375-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48369-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48375-Dialogue.mod:0
+msgid "... And we got a hungry gutter! Fishing with the hungry gutter or rolling back, /OUTLANDER/?"
+msgstr "No i mamy głodnego rozpruwacza! Łowić z głodnym rozpruwaczem czy rzucać jeszcze raz, /OUTLANDER/?"
+
+#. Id: 48430-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48430-Dialogue.mod:0
+msgid "Okay, pulling out! And we're fishing with the hungry gutter! /GAMBLE/ and /GAMBLE/…"
+msgstr "Świetnie, wyciągam! Łowimy z głodnym rozpruwaczem! /GAMBLE/ i /GAMBLE/..."
+
+#. Id: 48432-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48430-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48432-Dialogue.mod:0
+msgid "... And it's a dryout with a stoneroller! Bad luck, /OUTLANDER/. Chance at a catback and play again?"
+msgstr "I wypada wysuszenie z kamieniarzem! Nieszczęście ci towarzyszy, /OUTLANDER/. Chcesz się odegrać?"
+
+#. Id: 48407-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48427-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48407-Dialogue.mod:0
+msgid "Okay, /GAMBLE/! Cats in the house! And we're rolling back with a hungry gutter! Rolling, rolling…"
+msgstr "Dobra, /GAMBLE/! Kotki w domu! Rzucamy jeszcze raz z głodnym rozpruwaczem! Toczy się, toczy...."
+
+#. Id: 48408-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48407-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48408-Dialogue.mod:0
+msgid "And it's a clean lick with a steamroller! 200 Cats, congratulations, /OUTLANDER/... Playing again?"
+msgstr "Wypada czysty klaps z parownikiem! 200 catunów, gratulacje, /OUTLANDER/... Gramy dalej?"
+
+#. Id: 48428-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48375-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48428-Dialogue.mod:0
+msgid "Mmm... fish..."
+msgstr "Mmm... ryba..."
+
+#. Id: 48428-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (48375-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48428-Dialogue.mod:1
+msgid "Pfft..."
+msgstr ""
+
+#. Id: 48428-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (48375-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48428-Dialogue.mod:3
+msgid "Whatever, I don't care."
+msgstr "Cokolwiek, nie obchodzi mnie to."
+
+#. Id: 48376-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48369-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48376-Dialogue.mod:0
+msgid "... And we got a arrow in the neck! Fishing with the arrow in the neck or rolling back, /OUTLANDER/?"
+msgstr "No i mamy strzałę w szyi! Łowimy ze strzałą w szyi czy mam rzucać jeszcze raz, /OUTLANDER/?"
+
+#. Id: 48433-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48409-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48433-Dialogue.mod:0
+msgid "Okay, pulling out! And we're fishing with the arrow in the neck! /GAMBLE/ and /GAMBLE/…"
+msgstr "Okej, wyciągam! Łowimy ze strzałą w szyi! /GAMBLE/ i /GAMBLE/..."
+
+#. Id: 48435-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48433-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48435-Dialogue.mod:0
+msgid "Holy crap! Plank! Close stroke with a full rollback gets the girl! 600 Cats! Going for a hot chain, /OUTLANDER/? Play again?"
+msgstr "Cholera! Deska! Czysty strzał z pełnym rzutem zgarnia dziewczynkę! 600 catunów! Lecimy na gorącą linię, /OUTLANDER/? Gramy?"
+
+#. Id: 48411-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48410-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48411-Dialogue.mod:0
+msgid "Okay, /GAMBLE/! Cats in the house! And we're rolling back with an arrow in the neck! Rolling, rolling…"
+msgstr "Jasne, Kotki w domu! Rzucamy jeszcze raz ze strzałą w szyi! Toczy się, toczy..."
+
+#. Id: 48429-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48376-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48429-Dialogue.mod:0
+msgid "Less yappin' and more monies!"
+msgstr "Mniej gadania, więcej łowienia!"
+
+#. Id: 48429-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (48376-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48429-Dialogue.mod:1
+msgid "Quit yappin' and win me some Cats!"
+msgstr "Skończ gadać i daj mi wygrać!"
+
+#. Id: 48366-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48363-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 48366-Dialogue.mod:0
+msgid "How do I play?"
+msgstr "Jak w to się gra?"
+
+#. Id: 48368-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48366-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catcrawlers game
+#: 48368-Dialogue.mod:0
+msgid "It's a quick learnin' game, /OUTLANDER/, shoot through it and you'll be fine. Folks are waitin' to play, let's go."
+msgstr "Łatwo się nauczyć Pełzacza, /OUTLANDER/, po prostu idź na żywioł i będzie w porządku. Pozostali też chcą zagrać, zatem kontynuujmy."
+
+#. Id: 48367-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48363-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. Id: 8612-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8642-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 700
+#. Id: 16733-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16729-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw medic 2500
+#: 48367-Dialogue.mod:0 8612-Dialogue.mod:0 16733-Dialogue.mod:1
+msgid "No, nevermind"
+msgstr "Nie, daruję sobie."
+

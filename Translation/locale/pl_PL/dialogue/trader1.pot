@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12613-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 95588-__Mourn.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12613-gamedata.base:0 95588-__Mourn.mod:0
+msgid "I ain't trading with no thief!"
+msgstr ""
+
+#. Id: 12613-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12613-gamedata.base:2
+msgid "/FUCKOFF/, thief!"
+msgstr ""
+

@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15667-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military freed by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 15667-Dialogue.mod:0
+msgid "You'll pay for what you've done!"
+msgstr ""
+
+#. Id: 15667-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military freed by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. Id: 13649-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law spotting a generic crime
+#: 15667-Dialogue.mod:1 13649-Escapes.mod:3
+msgid "You'll be punished for this!"
+msgstr ""
+
+#. Id: 15669-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15667-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military freed by captor
+#: 15669-Dialogue.mod:0
+msgid "Mark my words!"
+msgstr ""
+
+#. Id: 15671-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military freed by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 13816-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13815-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness looting ally
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 7928-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. Id: 47385-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (47384-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. Id: 9932-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (9929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. Id: 9973-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (9972-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#. Id: 18307-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (18306-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Town thug mugging harassment
+#. Id: 13428-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 7564-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my friend
+#. Id: 11459-Dialogue (10).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (11458-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock Shek Bad relations
+#. Id: 17599-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (17598-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stranger interrupts Shek
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 17600-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17598-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stranger interrupts Shek
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 44018-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (44005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#: 15671-Dialogue.mod:0 13816-Escapes.mod:2 7928-Dialogue.mod:1 47385-Dialogue.mod:8 9932-Dialogue.mod:4 9973-Dialogue.mod:4 18307-Dialogue.mod:3 13428-Escapes.mod:1 7564-Dialogue.mod:0 11459-Dialogue?(10).mod:1 17599-Dialogue.mod:6 17600-Dialogue.mod:1 44018-Dialogue.mod:5
+msgid "I'll kill you!"
+msgstr ""
+
+#. Id: 15671-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military freed by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 47697-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47695-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: assassination failed
+#: 15671-Dialogue.mod:1 47697-Dialogue.mod:1
+msgid "You'll die for this!"
+msgstr ""
+
+#. Id: 15671-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military freed by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 15671-Dialogue.mod:2
+msgid "You'll bleed for this!"
+msgstr ""
+
+#. Id: 15671-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military freed by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 15671-Dialogue.mod:3
+msgid "I'll make you bleed!"
+msgstr ""
+
+#. Id: 15671-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military freed by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 15671-Dialogue.mod:4
+msgid "You're going to die!"
+msgstr ""
+
+#. Id: 45936-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military freed by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. Id: 45843-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: noble released by captor
+#. Id: 58534-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58532-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: esata acknowledges player 1
+#. Id: 46081-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton attacked by someone else
+#. -- Condition: My Race(s): Szkieletron
+#. Id: 45918-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: tough merc freed by captor
+#. -- Condition: My Sub-Race(s): Borealczyk or Shek
+#. Id: 60989-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata sees player with enemy
+#. Id: 60991-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata sees player with enemy
+#. Id: 15916-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#. Id: 46076-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: My Race(s): Szkieletron
+#: 45936-Dialogue.mod:0 45843-Dialogue.mod:1 58534-Dialogue.mod:0 46081-Dialogue.mod:2 45918-Dialogue.mod:3 60989-Dialogue.mod:0 60991-Dialogue.mod:0 15916-Dialogue.mod:1 46076-Dialogue.mod:4
+msgid "...!"
+msgstr ""
+
+#. Id: 45936-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military freed by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. Id: 46962-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity alone
+#. Id: 14142-Dialogue (4).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (14141-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots animal squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 41441-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civ sees skeleton
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 42181-rebirth.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#: 45936-Dialogue.mod:1 46962-rebirth.mod:3 14142-Dialogue?(4).mod:3 41441-Dialogue.mod:2 42181-rebirth.mod:5
+msgid "Run!"
+msgstr ""
+
+#. Id: 45936-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military freed by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 45936-Dialogue.mod:2
+msgid "Now's my chance!"
+msgstr ""
+
+#. Id: 45936-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military freed by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. Id: 17969-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picklock attempt hiver ronin
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: My Race(s): Książę Roju
+#. -- Condition: In town(s) of faction(s): Kanibali
+#: 45936-Dialogue.mod:3 17969-Dialogue.mod:3
+msgid "I need to get out of here!"
+msgstr ""
+
+#. Id: 45936-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military freed by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. Id: 15629-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 45936-Dialogue.mod:4 15629-Dialogue.mod:3
+msgid "Let me go!"
+msgstr ""
+

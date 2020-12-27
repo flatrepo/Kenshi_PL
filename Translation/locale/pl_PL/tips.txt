@@ -1,0 +1,63 @@
+Jeśli potrzebujesz pomocy, chcesz podzielić się screenem albo stworzyłeś moda, zajrzyj na nieoficjalną, fanowską stronę Kenshi - www.kenshi.pl.
+Otrzymujesz karę -10 do Otwierania zamków, kiedy otwierasz własną klatkę.
+Otrzymywanie obrażeń najszybciej podnosi twoje umiejętności obrony.
+Walka z silniejszymi przeciwnikami o wiele szybciej podnosi umiejętności walki. Walczenie ze słabszymi nie nauczy cię wiele.
+Niektóre technologie można odkryć tylko przez znajdywanie projektów. Niektóre z nich można kupić w sklepach.
+Jeśli cała twoja drużyna zostanie pokonana, każdy żywy będzie udawać martwego aż przeciwnik odejdzie na bezpieczną odległość. Możesz ich zawsze zmusić do wstania wydając rozkaz, co także podniesie ich Wytrzymałość.
+Zbyt wiele ciał rozkładających się na ziemi może przyciągnąć padlinożerców.
+Jeśli jesteś w przebraniu danej frakcji, osoby do niej należące mogą łatwiej cię rozpoznać, niż inni.
+Niewolnicze kajdany można usunąć poprzez otwarcie zamka lub znalezienie piły.
+Zbiegli niewolnicy powinni unikać większości miast i frakcji, aż przestaną być poszukiwani.
+Bycie pokonanym w walce nie zawsze oznacza koniec. Istnieje szansa, że ktoś z twojej drużyny odzyska siły na tyle szybko, że uratuje pozostałych.
+Możesz ustawić postać w tryb "BLOK", by nie wykonywała żadnych ataków, tym samym zyskując +20 do umiejętności obrony. To dobry sposób na zyskanie czasu, gdy się przegrywa.
+Wciśnięcie przycisku MEDYK zmusi zaznaczone postacie do automatycznego leczenia reszty drużyny. Jeśli wybierzesz przycisk trzymając Shift, postać otrzyma permanentną rolę medyka.
+Jeśli Łowca niewolników zabierze ci sprzęt, prawdopodobnie umieści go w jakimś pojemniku. Być może dasz radę go odzyskać.
+Jeśli Łowca niewolników zgoli twoją głowę, możesz odzyskać włosy odwiedzając chirurga plastycznego. Ci zwykle przebywają w barach.
+Wieżyczki zyskują zasięg, celność i obrażenia im wyżej nad wrogiem się znajdują. Stawiaj je na szczytach gór i murów.
+Jeśli wyznaczono nagrodę za głowę postaci, możesz zanieść ją na komisariat i zyskać pieniądze.
+Ciężki ekwipunek spowolni twojego bohatera, ale jest to też dobry sposób na ćwiczenie siły.
+Możesz budować budynki klikając przycisk Buduj znajdujący się w górnym prawym rogu interfejsu. Twoja postać będzie potrzebować materiałów budowlanych w ekwipunku, by dokończyć budowę.
+Możesz kupować puste lub zniszczone budynki w miastach. Kliknij na drzwi budynku, a pojawi się przycisk "KUP" w lewym dolnym rogu ekranu, jeśli ten będzie na sprzedaż.
+Plecaki są dobre do przenoszenia wielu rzeczy, ale te większe ograniczają mobilność w walce.
+Kradzież, otwieranie zamków, okradanie ciał - to są przestępstwa, przez które można otrzymać grzywnę, jeśli postać zostanie wykryta.
+Jeśli twoja postać posiada grzywnę, powinna unikać pojawiania się w miastach strzeżonych przez policję. Jednakże wykrycie przez kogoś wymaga czesu, więc jeśli musisz wejść - unikaj bezpośredniego kontaktu i wynoś się jak najszybciej.
+Im większa grzywna, tym więcej ludzi cię rozpozna. Policja i łowcy nagród wykrywają najlepiej, podczas gdy cywile rozpoznają tylko najbardziej niesławnych przestępców.
+Jeśli za kogoś została wyznaczona nagroda, możesz go zaatakować bez obaw o reakcję policji.
+Szansa na udaną kradzież z pojemnika opiera się na umiejętności Kradzieży i odległości od właściciela.
+Kiedy się skradasz, odległość, z jakiej słyszą cię inni zależy od poziomu umiejętności. Postacie są bardziej czułe na dźwięki, gdy śpią.
+Uważaj podczas sprzedaży kradzionych przedmiotów. Sprzedawcom raczej nie będzie przeszkadzać towar ukradziony ich wrogom, ale sprzedaż ich własnych przedmiotów to nie jest dobry pomysł.
+Kiedy okradasz większą frakcję, warto mieć ich mundur jako przebranie, ale nie zdziw się, gdy któryś cię rozpozna i się zdenerwuje.
+Przytrzymaj SHIFT podczas wydawania polecenia ruchu postaci, kiedy ona walczy. Zamiast biegu, będzie powoli cofać się w dane miejsce, nadal walcząc i się chroniąc.
+Jeśli zbudujesz bazę obok innych posterunków, wiosek kanibali czy obozów bandytów, pamiętaj o konsekwencjach.
+Bierz pod uwagę na czyim terytorium budujesz. Zwrócisz na siebie uwagę.
+Stacjonarne wieżyczki nie potrzebują prądu, tak więc mogą być budowane w każdym miejscu w dziczy.
+Nie jest dobrym pomysłem wysyłanie nie-ludzi wgłąb terytoriów Świętego Narodu. Zapamiętaj prawa rządzące światem, jeśli chcesz przetrwać.
+Musisz jeść, by przetrwać. Twój bohater potrzebuje żywności w ekwipunku, by jeść. Jedzenie w plecaku będzie dzielone między członkami drużyny.
+Niewolnicy karmieni są na tyle, by mogli pracować, ale jednocześnie nie mogli uciec.
+Jeśli przytrzymasz SHIFT podczas wydawania rozkazu, wybrana postać otrzyma tę czynność jako permanentną pracę.
+Możesz przytrzymać SHIFT podczas patroszenia zwierzęcia, by była to permanentna praca postaci. Będzie ona zbierać skóry i mięso ze zwierząt w okolicy.
+Jeśli postać posiada żywność w plecaku, ta będzie automatycznie dzielona między pozostałymi członkami drużyny.
+Strażnicy miejscy będą badać budynki z otwartymi drzwiami w nocy.
+Rozglądaj się w barach za rekrutami do drużyny. Możesz tam też znaleźć najemników i inne interesujące indywidua.
+Korzystanie z większej broni w pomieszczeniach nałoży karę na umiejętność walki. Postacie będą automatycznie przełączać się na broń boczną, jeśli muszą i takową posiadają.
+Ciężka broń wymaga dwóch rąk do walki. Jeśli postać ma okaleczone ramię, automatycznie przełączy się na korzystanie z broni bocznej, jeśli taką ma.
+Umiejętność Sztuki Walki odblokowuje lepsze ataki w miarę jej rozwoju.
+Uderzanie gołymi pięściami w metalowe powierzchnie (pancerze, roboty, miecze) powodują obrażenia rąk (chyba, że jesteś Szkieletronem). Mistrz sztuk walki może wyszkolić się do tego stopnia, że nie będzie to już problemem.
+Twoja umiejętność Sztuk walki obniża się kiedy jesteś pod obciążeniem, ale tym samym pozwala na rozwój siły.
+Mistrzowie sztuk walki są z znani z noszenia ciężkiego uzbrojenia, by celowo utrudnić sobie potyczki.
+Sztuki walki to umiejętność dostosowywania ciała do przeciwnika. Obrażenia zadawane wręcz są zależne od siły i wytrzymałości.
+Jeśli zamkniesz drzwi budynku, będzie ciężej usłyszeć co dzieje się w środku.
+Burze piaskowe ograniczają widoczność i słuch. Tworzą świetny moment do skrytych działań.
+Ulewy powodują niewielką karę do widzenia i słuchu, więc pozwalają na lepsze skradanie się.
+Niektóre przedmioty mogą chronić cię przed pogodą. Gogle i maski są dobre na burze piaskowe, inne mogą osłaniać przed gazami, kwasem czy gorącem.
+Praca w ciemności jest mniej wydajna. Wybuduj wokół trochę źródeł światła.
+Jeśli chcesz eksplorować, lepiej zostawić bazę bez opieki i wrócić do niej za jakiś czas.
+Możesz przeciągać prace na liście prac, by zmienić ich kolejność/priorytet.
+Jeżeli nie masz plecaka, możesz karmić swoje zwierzęta rzucając żywność na ziemię obok nich.
+Szkieletrony kumulują stałe obrażenia z czasem, przez co obniża się ich maksymalny PŻ. Można to zmienić poprzez ich naprawę na Łożu Naprawczym.
+Jeśli kończyna zostanie trafiona ostrą bronią i ma mniej niż -100 PŻ, zostanie odcięta. Jest to utrata permanentna, i należy znaleźć sztuczną protezę.
+Możesz wybudować namiot z tkanin, by chronić się przed kwasowym deszczem w dziczy.
+Robale tworzą tanie, sztuczne kończyny, które możesz kupić, jeśli jesteś wystarczająco zdesperowany.
+Amputowane kończyny to ulubione przysmaki Kościopsów. Młodsze psy się zbytnio ekscytują i uciekają z nagrodą.
+Możesz wybudować Piec by pozbyć się kończyn i ciał walających się po bazie. Przydziel postać do pracy przy piecu, a ta automatycznie wyczyści miejsce. Możesz też znaleźć psy.
+Jeśli stoisz w ciemności, każdy NPC przebywający w oświetlonym miejscu nie będzie ciebie widzieć. W odwrotnej sytuacji, będziesz widziany z kilometra. Uważaj na przeciwników poruszających się w ciemnościach.

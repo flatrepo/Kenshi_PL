@@ -1,0 +1,414 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 56283-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56283-Dialogue.mod:0
+msgid "Mm mm. The finest bloodrum... And it looks like I have a guest? Lucky I'm feeling charitable. Have a drop."
+msgstr "Mmm. Najlepszy krwawy rum... I chyba mam gościa? Dziś mam nastrój na podarunki. Napij się ze mną."
+
+#. Id: 56287-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56284-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56287-Dialogue.mod:0
+msgid "[He pours a shot anyway]"
+msgstr "[Nalewa drugą szklankę tak czy inaczej]"
+
+#. Id: 56288-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56287-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56288-Dialogue.mod:0
+msgid "Do you know what's on my mind, country/MAN/?"
+msgstr "Wiesz, o czym teraz myślę, /BOY/?"
+
+#. Id: 56294-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56294-Dialogue.mod:0
+msgid "Tinfist... Tinfist and his ninjas. He plagues our guild, sabotages our order, sets our slaves loose. Industry and harvest aside, do you know what happens to these escaped slaves, country/MAN/?"
+msgstr "Blachoręki... Blachoręki i jego ninja. Zatruwa naszą gildię, sabotuje zamówienia, uwalnia naszych niewolników. Ale przemysł i uprawy na bok, wiesz co się dzieje z tymi zbiegłymi niewolnikami, /BOY/?"
+
+#. Id: 56303-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56298-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56303-Dialogue.mod:0
+msgid "See the corpses that litter their paths. They terrorize drifters, nomads, merchants. They become yet another threat to stave off in the outlands. A feral will always be a feral... For themselves and for others, the best solution for taming a wild animal is to leash it..."
+msgstr "Spójrz na ciała, które walają się na ich ścieżce. Terroryzują włóczęgów, nomadów, kupców. Są kolejnym zagrożeniem, którego należy unikać na zewnątrz. Dziki zawsze będzie dzikim... Najlepszym sposobem na oswojenie dzikiej bestii jest wzięcie jej na smycz - tyczy się to też ich, i innych."
+
+#. Id: 56304-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (56303-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56304-Dialogue.mod:0
+msgid "But Tinfist, ever the madman, unleashes these ferals on the innocent..."
+msgstr "Ale Blachoręki, cholerny szaleniec, spuszcza tych dzikich na niewinnych..."
+
+#. Id: 56305-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (56304-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56305-Dialogue.mod:0
+msgid "So why not kill him?"
+msgstr "Dlaczego więc go nie zabić?"
+
+#. Id: 56319-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (56305-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56319-Dialogue.mod:0
+msgid "Because he can't be killed. Sever the head and the body will fall... but one hundred years and not one of these so-called guards has put an end to Tinfist's insanity."
+msgstr "Bo to niemożliwe. Odetnij głowę a ciało upadnie... Ale minęło sto lat, i nikt jeszcze nie położył kresu szaleństwu Blachorękiego."
+
+#. Id: 56321-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (56319-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56321-Dialogue.mod:0
+msgid "Then allow me to try for you."
+msgstr "Zatem pozwól mi spróbować."
+
+#. Id: 56322-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (56321-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56322-Dialogue.mod:0
+msgid "By all means, try all you will, country/MAN/. Fight for us, fight with us against the anti-slavers and you fight for order, civilisation and prosperity..."
+msgstr "Wiesz, /BOY/, możesz spróbować. Walcz dla nas, walcz z nami przeciwko Wolnościowcom. Walcz w imieniu porządku, cywilizacji i dobrobytu..."
+
+#. Id: 56323-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (56322-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56323-Dialogue.mod:0
+msgid "The choice is clear. The Traders Guild are the protectors of the working man. We are the life blood of all civilized land... In more ways than you'll ever comprehend. "
+msgstr "Wybór jest prosty. Gildia Handlowa chroni ludzi pracy. Jesteśmy krwią cywilizowanej ziemi... I to o wiele większym znaczeniu, niż kiedykolwiek będziesz w stanie pojąć."
+
+#. Id: 56324-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (56323-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56324-Dialogue.mod:0
+msgid "Hope you enjoyed the bloodrum, country/MAN/"
+msgstr "Mam nadzieję, że krwawy rum smakował, /BOY/."
+
+#. Id: 56325-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (56319-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56325-Dialogue.mod:0
+msgid "When you send in ants to battle a legend, what do you expect?"
+msgstr "Czego się spodziewasz, jeśli wysyłasz mrówki do walki z legendą?"
+
+#. Id: 56356-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (56325-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56356-Dialogue.mod:0
+msgid "... Legend?"
+msgstr "Legendą...?"
+
+#. Id: 56357-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (56356-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56357-Dialogue.mod:0
+msgid "To take down a legend, you need another legend. Me."
+msgstr "By pokonać jedną legendę, potrzebujesz drugiej. Mnie."
+
+#. Id: 56358-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (56356-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56358-Dialogue.mod:0
+msgid "Anyone with any shred of humanity knows Tinfist is a legend. A hero."
+msgstr "Każdy mający w sobie choć cząstkę człowieczeństwa wie, że Blachoręki to legenda. Bohater."
+
+#. Id: 56326-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (56319-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56326-Dialogue.mod:0
+msgid "Quite a problem you've got yourself there. "
+msgstr "No to masz niezły problem."
+
+#. Id: 56360-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (56326-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56360-Dialogue.mod:0
+msgid "Yes, and a problem I need a break from right now. As pleasant as your company's been, country/MAN/ I 'd like to be alone now. "
+msgstr "Tak, i jest to problem, od którego na razie muszę odpocząć. Jakkolwiek miła by nie była twoja obecność, /BOY/, chciałbym teraz zostać sam."
+
+#. Id: 56310-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (56309-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56310-Dialogue.mod:0
+msgid "Not much of a guest, are you, country/MAN/?"
+msgstr "Niezbyt towarzyski z ciebie człowiek, co, /BOY/?"
+
+#. Id: 56307-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (56304-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56307-Dialogue.mod:0
+msgid "I can take care of Tinfist for you."
+msgstr "Mogę zająć się Blachorękim za ciebie."
+
+#. Id: 56320-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (56307-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56320-Dialogue.mod:0
+msgid "Of course, sever the head and the body will fall... but one hundred years and not one of these so-called guards has put an end to his insanity. What makes you think yourself different, country/MAN/?"
+msgstr "Oczywiście, odetnij głowę a ciało upadnie... Ale minęło sto lat, i żaden z moich ludzi nie skończył z jego szaleństwem. Co czyni cię wyjątkowym, /BOY/?"
+
+#. Id: 56328-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (56320-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56328-Dialogue.mod:0
+msgid "I consider myself a natural born hunter. Tinfist makes for a good challenge."
+msgstr "Uważam się za urodzonego łowcę. Blachoręki stanowi dobre wyzwanie."
+
+#. Id: 56329-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (56320-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56329-Dialogue.mod:0
+msgid "I am death itself, I've killed countless villains. Tinfist is nothing to me."
+msgstr "Jestem śmiercią, zabiłem niezliczoną ilość złych ludzi. Blachoręki nic dla mnie nie znaczy."
+
+#. Id: 56331-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (56329-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56331-Dialogue.mod:0
+msgid "That's quite a claim..."
+msgstr "Mocne stwierdzenie."
+
+#. Id: 56330-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (56320-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56330-Dialogue.mod:0
+msgid "I simply enjoy the thrill of a decent fight, that's all."
+msgstr "Po prostu lubię porządną walkę, to wszystko."
+
+#. Id: 56332-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (56330-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56332-Dialogue.mod:0
+msgid "Well, I'm not exactly filled with confidence at that but..."
+msgstr "Cóż, nie mam aż tyle pewności w sobie, ale..."
+
+#. Id: 56311-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (56304-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56311-Dialogue.mod:0
+msgid "Tch, madman? Tinfist is a hero!"
+msgstr "Tch, szaleniec? Blachoręki to bohater!"
+
+#. Id: 56312-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (56311-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56312-Dialogue.mod:0
+msgid "Is this some kind of joke? Do you even know what you're saying? Hailing top terrorist leaders to the ruling opposition will land you in a prison cage..."
+msgstr "Czy to jakiś dowcip? Czy wiesz, o czym w ogóle teraz mówisz, /BOY/? Wielbienie liderów terrorystów chcących obalić opozycję sprowadzi na ciebie nieszczęście..."
+
+#. Id: 56313-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (56312-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56313-Dialogue.mod:0
+msgid "Long live Tinfist!"
+msgstr "Niech żyje Blachoręki!"
+
+#. Id: 56314-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (56313-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56314-Dialogue.mod:0
+msgid "This /GUY/'s insane! Get /HIM/ out of here!"
+msgstr "Ten jest szalony! Zabrać /HIM/ stąd!"
+
+#. Id: 56315-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (56314-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56315-Dialogue.mod:0
+msgid "Crazy anti-slavers..."
+msgstr "Zwariowani Wolnościowcy..."
+
+#. Id: 56317-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (56312-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56317-Dialogue.mod:0
+msgid "Enslavement of human beings... you're the real villain!"
+msgstr "Zniewalanie ludzkich istot... Ty jesteś prawdziwym złem!"
+
+#. Id: 56318-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (56312-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56318-Dialogue.mod:0
+msgid "Apologies. It was a joke of poor taste."
+msgstr "Proszę o wybaczenie. To był niezbyt wyborny dowcip."
+
+#. Id: 56327-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (56318-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56327-Dialogue.mod:0
+msgid "It was innapropriate, country/MAN/... Whatever, I need a break from this subject anyway. Leave me to my drink."
+msgstr "Był nie na miejscu, /BOY/... Ale nieważne, chcę skończyć o tym rozmawiać. Pozwól mi pić."
+
+#. Id: 56364-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (56327-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56364-Dialogue.mod:0
+msgid "And find yourself a better sense of humour."
+msgstr "I popraw swoje poczucie humoru."
+
+#. Id: 56296-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56294-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56296-Dialogue.mod:0
+msgid "They live happily ever after."
+msgstr "Żyją długo i szczęśliwie."
+
+#. Id: 56302-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56296-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56302-Dialogue.mod:0
+msgid "Is that supposed to be a joke?"
+msgstr "Czy to miał być żart?"
+
+#. Id: 56297-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56294-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56297-Dialogue.mod:0
+msgid "They stop being useful, start becoming a pest."
+msgstr "Przestają być użyteczni, stają się szkodnikami."
+
+#. Id: 56301-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56297-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#. Id: 2137-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (2135-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: plastic surgeon
+#: 56301-Dialogue.mod:0 2137-gamedata.base:0
+msgid "Exactly."
+msgstr "Właśnie."
+
+#. Id: 56299-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56294-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56299-Dialogue.mod:0
+msgid "The gutters have a slave buffet."
+msgstr "Rozpruwacze mają niewolniczą stołówkę."
+
+#. Id: 56300-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56299-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56300-Dialogue.mod:0
+msgid "Right, but worse. What of the the lucky ones?"
+msgstr "To prawda, ale nie zawsze. Co z tymi mającymi więcej szczęścia?"
+
+#. Id: 56292-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56288-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56292-Dialogue.mod:0
+msgid "Gristle flaps?"
+msgstr "O jedzeniu?"
+
+#. Id: 56285-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56283-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 56285-Dialogue.mod:0
+msgid "Don't mind if I do."
+msgstr "Nie odmówię."
+
+#. Id: 56289-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56285-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen talk to
+#: 56289-Dialogue.mod:0
+msgid "[He pours a shot]"
+msgstr "[Nalewa drugą szklankę]"
+

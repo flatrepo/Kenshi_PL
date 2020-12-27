@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50032-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player approach town
+#. -- Condition: In town(s) of faction(s): Ninja Flotsam
+#: 50032-Dialogue.mod:0
+msgid "You! Don't take another step!"
+msgstr ""
+
+#. Id: 50037-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53202-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player approach town
+#: 50037-Dialogue.mod:0
+msgid "You and I need to have a little chat..."
+msgstr ""
+
+#. Id: 50034-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50037-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player approach town
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 50034-Dialogue.mod:0
+msgid "I'm telling you now! You so much as twitch again and I'll kill you myself!"
+msgstr ""
+
+#. Id: 50041-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50034-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player approach town
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 50041-Dialogue.mod:0
+msgid "Tch, don't say I didn't warn you..."
+msgstr ""
+

@@ -1,0 +1,310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 64402-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 64407-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 64408-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#: 64402-Dialogue.mod:0 64407-Dialogue.mod:0 64408-Dialogue.mod:0
+msgid "Harm one of our own and you deserve no mercy..."
+msgstr ""
+
+#. Id: 64402-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 64407-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 64408-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#: 64402-Dialogue.mod:1 64407-Dialogue.mod:1 64408-Dialogue.mod:1
+msgid "Harm our brethren and we'll show you no mercy..."
+msgstr ""
+
+#. Id: 64402-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 64407-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 64408-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#: 64402-Dialogue.mod:2 64407-Dialogue.mod:2 64408-Dialogue.mod:2
+msgid "For what you did to our comrade, you don't get the privilege of mercy..."
+msgstr ""
+
+#. Id: 64403-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 60865-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver sees enemy faction player
+#: 64403-Dialogue.mod:0 60865-Dialogue.mod:0
+msgid "For Bo!"
+msgstr ""
+
+#. Id: 64403-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (64402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 64404-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (64402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 64405-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (64402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#: 64403-Dialogue.mod:1 64404-Dialogue.mod:1 64405-Dialogue.mod:1
+msgid "Rot in the dust, /SCUM/!"
+msgstr ""
+
+#. Id: 64403-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (64402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#: 64403-Dialogue.mod:2
+msgid "This one's for Bo!"
+msgstr ""
+
+#. Id: 64403-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (64402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 64404-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (64402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 64405-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (64402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#: 64403-Dialogue.mod:3 64404-Dialogue.mod:3 64405-Dialogue.mod:3
+msgid "An eye for an eye, /SCUM/!"
+msgstr ""
+
+#. Id: 64404-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 60866-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver sees enemy faction player
+#: 64404-Dialogue.mod:0 60866-Dialogue.mod:0
+msgid "For Jaegar!"
+msgstr ""
+
+#. Id: 64404-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (64402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 60866-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver sees enemy faction player
+#: 64404-Dialogue.mod:2 60866-Dialogue.mod:1
+msgid "This one's for Jaegar!"
+msgstr ""
+
+#. Id: 64405-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 60864-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver sees enemy faction player
+#: 64405-Dialogue.mod:0 60864-Dialogue.mod:0
+msgid "For Grey!"
+msgstr ""
+
+#. Id: 64405-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (64402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#: 64405-Dialogue.mod:2
+msgid "This one's for Grey!"
+msgstr ""
+
+#. Id: 64414-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 64389-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (64388-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver revenge
+#. Id: 64391-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver revenge
+#. Id: 96542-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96541-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Reavers base announce
+#: 64414-Dialogue.mod:0 64389-Dialogue.mod:3 64391-Dialogue.mod:2 96542-Dialogue.mod:0
+msgid "For freedom!"
+msgstr ""
+
+#. Id: 64414-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 17935-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Książę Roju
+#. Id: 61085-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (61084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#. Id: 60690-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (60688-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire assault on enemy player
+#. Id: 61025-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Charge! crowd trigger
+#. Id: 10970-Dialogue (10).mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cries shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 61988-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61990-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver revenge
+#. Id: 64389-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (64388-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver revenge
+#. Id: 61026-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (61021-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. Id: 15723-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military defeats someone
+#. Id: 95893-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96754-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Illegal building announce
+#. Id: 15705-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (15704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#. Id: 15709-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (15706-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#. Id: 95500-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation enemy hunt
+#. Id: 1532675-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation enemy hunt
+#. Id: 17599-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (17598-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stranger interrupts Shek
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 14738-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#: 64414-Dialogue.mod:1 17935-Dialogue.mod:1 61085-Dialogue.mod:3 60690-Dialogue.mod:1 61025-Dialogue.mod:0 10970-Dialogue?(10).mod:7 61988-Dialogue.mod:0 64389-Dialogue.mod:2 61026-Dialogue.mod:0 15723-Dialogue.mod:9 95893-Dialogue.mod:0 15705-Dialogue.mod:7 15709-Dialogue.mod:4 95500-Dialogue.mod:0 1532675-Dialogue.mod:5 17599-Dialogue.mod:4 14738-Dialogue.mod:6
+msgid "Charge!"
+msgstr ""
+
+#. Id: 64414-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#: 64414-Dialogue.mod:2
+msgid "Time to learn what happens when you make enemies with the Anti Slavers, /SCUM/!"
+msgstr ""
+

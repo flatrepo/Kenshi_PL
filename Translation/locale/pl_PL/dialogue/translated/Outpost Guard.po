@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 8396-D-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: _
+#: 8396-D-Dialogue.mod:0
+msgid "Greetings /OUTLANDER/"
+msgstr "Witaj, /OUTLANDER/."
+
+#. Id: 8396-D-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: _
+#: 8396-D-Dialogue.mod:1
+msgid "Welcome. Travelled far?"
+msgstr "Witaj. Długa podróż?"
+
+#. Id: 8396-D-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: _
+#: 8396-D-Dialogue.mod:2
+msgid "Good day /OUTLANDER/"
+msgstr "Miłego dnia, /OUTLANDER/."
+
+#. Id: 8396-D-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: _
+#: 8396-D-Dialogue.mod:3
+msgid "Hello /OUTLANDER/. Come far?"
+msgstr "Witaj, /OUTLANDER/. Przybywasz z daleka?"
+
+#. Id: 8397-D-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: _
+#: 8397-D-Dialogue.mod:0
+msgid "Good day"
+msgstr "Miłego dnia."
+
+#. Id: 8397-D-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: _
+#: 8397-D-Dialogue.mod:1
+msgid "Greetings"
+msgstr "Witaj."
+
+#. Id: 8397-D-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: _
+#: 8397-D-Dialogue.mod:2
+msgid "Welcome"
+msgstr "Zapraszam."
+
+#. Id: 8397-D-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: _
+#: 8397-D-Dialogue.mod:3
+msgid "Hi there"
+msgstr "Cześć!"
+
+#. Id: 8401-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ___
+#: 8401-Dialogue.mod:0
+msgid "Don't try any funny business"
+msgstr "Nie próbuj żadnych sztuczek."
+
+#. Id: 8401-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ___
+#: 8401-Dialogue.mod:1
+msgid "I'm watching you"
+msgstr "Obserwuję cię, szujo."
+
+#. Id: 8401-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ___
+#: 8401-Dialogue.mod:2
+msgid "I've got my eye on you"
+msgstr "Mam na ciebie oko."
+
+#. Id: 8401-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ___
+#: 8401-Dialogue.mod:3
+msgid "Don't go making any trouble"
+msgstr "Nie rób tu żadnych problemów."
+
+#. Id: 8403-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#. Id: 95563-Mourn.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#. Id: 181-gamedata.quack
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. Id: 1534128-__Fixes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Trade unlock
+#. Id: 95737-__Mourn.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#: 8403-Dialogue.mod:0 95563-Mourn.mod:4 181-gamedata.quack:4 1534128-__Fixes.mod:4 95737-__Mourn.mod:2
+msgid "Here to buy?"
+msgstr "Kupujemy?"
+
+#. Id: 8403-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#: 8403-Dialogue.mod:1
+msgid "No time wasters"
+msgstr "Nie marnuj mojego czasu."
+
+#. Id: 8403-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#: 8403-Dialogue.mod:2
+msgid "No loitering"
+msgstr "Nie włócz się."
+

@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1402-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: get lost
+#. -- Condition: Who: ME, Condition: RELATIONS<10
+#. Id: 41306-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41304-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire bard
+#. Id: 3315-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS<0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Borealczyk
+#. Id: 44777-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug1
+#: 1402-gamedata.base:0 41306-Dialogue.mod:0 3315-dialogue-01.mod:1 44777-Dialogue.mod:10
+msgid "Get lost."
+msgstr ""
+

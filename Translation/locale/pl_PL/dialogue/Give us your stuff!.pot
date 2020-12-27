@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 14462-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. Id: 15557-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation witness lockpick
+#. Id: 40708-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from priest
+#. Id: 61822-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 13852-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. Id: 44348-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Small bounty
+#. Id: 15734-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted military by someone else
+#. Id: 16232-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante spots imposter
+#: 14462-Dialogue?(4).mod:1 15557-Dialogue.mod:4 40708-Dialogue.mod:0 61822-Dialogue.mod:0 13852-Escapes.mod:3 44348-Dialogue.mod:6 15734-Dialogue.mod:3 16232-Dialogue.mod:4
+msgid "You!"
+msgstr ""
+
+#. Id: 14462-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#: 14462-Dialogue?(4).mod:2
+msgid "Hold up!"
+msgstr ""
+
+#. Id: 7284-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14462-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#: 7284-Dialogue.mod:0
+msgid "Give us all your /MONEY/!"
+msgstr ""
+
+#. Id: 7284-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14462-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#: 7284-Dialogue.mod:1
+msgid "Hand over your /CATS/!"
+msgstr ""
+
+#. Id: 7284-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14462-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#: 7284-Dialogue.mod:2
+msgid "Give us all your food!"
+msgstr ""
+
+#. Id: 7284-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (14462-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#: 7284-Dialogue.mod:3
+msgid "/IWE/ want your gear!"
+msgstr ""
+
+#. Id: 14548-Dialogue (4).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7284-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 14548-Dialogue?(4).mod:0
+msgid "Keep running from me an' you're in for a world of hurt!"
+msgstr ""
+
+#. Id: 14552-Dialogue (4).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (14548-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 7858-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (7857-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Swamper Gang Bad Relations 
+#. Id: 8421-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#. Id: 56415-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Longen get up fight
+#. Id: 7454-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7437-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. Id: 62914-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (62912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to
+#: 14552-Dialogue?(4).mod:1 7858-Dialogue.mod:1 8421-Dialogue.mod:4 56415-Dialogue.mod:7 7454-Dialogue.mod:1 62914-Dialogue.mod:0
+msgid "Kill /HIM/!"
+msgstr ""
+
+#. Id: 14552-Dialogue (4).mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (14548-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 14552-Dialogue?(4).mod:2
+msgid "Run /HIM/ down!"
+msgstr ""
+
+#. Id: 14552-Dialogue (4).mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (14548-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 45183-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19785-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 61665-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (61664-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#. Id: 60655-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (60654-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Eyegore hunts down player
+#. Id: 60663-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (60656-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Eyegore hunts down player
+#. Id: 60670-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60668-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Eyegore hunts down player
+#. Id: 60674-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (60673-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Eyegore hunts down player
+#. Id: 19729-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18143-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by target hiver
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. Id: 61487-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61486-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Killed noble announce
+#. Id: 61488-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61487-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Killed noble announce
+#. Id: 64732-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dimak sees player
+#. Id: 3695-dialogue-01.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (3693-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up as enemy starts walking away
+#. Id: 1531964-__May 18.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1531963-__May 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hiver lost
+#: 14552-Dialogue?(4).mod:4 45183-Dialogue.mod:1 61665-Dialogue.mod:0 60655-Dialogue.mod:0 60663-Dialogue.mod:0 60670-Dialogue.mod:0 60674-Dialogue.mod:0 19729-Dialogue.mod:2 61487-Dialogue.mod:0 61488-Dialogue.mod:0 64732-Dialogue.mod:1 3695-dialogue-01.mod:1 1531964-__May?18.mod:0
+msgid "Kill!"
+msgstr ""
+
+#. Id: 14552-Dialogue (4).mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (14548-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 7896-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (7870-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations 
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 8421-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#. Id: 16234-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (16233-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante spots imposter
+#: 14552-Dialogue?(4).mod:5 7896-Dialogue.mod:2 8421-Dialogue.mod:5 16234-Dialogue.mod:3
+msgid "Cut /HIM/ down!"
+msgstr ""
+
+#. Id: 7287-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14462-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 7287-Dialogue.mod:0
+msgid "Give us yer /STUFF/! Give it!"
+msgstr ""
+
+#. Id: 7287-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14462-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 7287-Dialogue.mod:1
+msgid "Gimme all yer shiny stuff!"
+msgstr ""
+
+#. Id: 7287-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14462-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 7287-Dialogue.mod:2
+msgid "I want food! I want it now!"
+msgstr ""
+
+#. Id: 7287-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (14462-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 7287-Dialogue.mod:3
+msgid "I want shiny things! Gimme all yer gear!"
+msgstr ""
+
+#. Id: 7289-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14462-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7289-Dialogue.mod:0
+msgid "Give us all your stuff! Quit hoggin' all that food!"
+msgstr ""
+
+#. Id: 7289-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14462-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7289-Dialogue.mod:1
+msgid "Hey, /IDIOT/! Cough up some of those Cats!"
+msgstr ""
+
+#. Id: 7289-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14462-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7289-Dialogue.mod:2
+msgid "Gimme all your food! Now!"
+msgstr ""
+
+#. Id: 7291-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14462-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 7291-Dialogue.mod:0
+msgid "Give /MEUS/ your stuff, and /IWE/ won't /SLITYOURTHROAT/"
+msgstr ""
+
+#. Id: 7291-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14462-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 7291-Dialogue.mod:1
+msgid "Hand over all your gear! I swear I'll /THREAT_ACTION/ your face otherwise!"
+msgstr ""
+

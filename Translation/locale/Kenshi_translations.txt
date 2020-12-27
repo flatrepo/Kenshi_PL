@@ -1,0 +1,65 @@
+Translations
+========================
+Standard: GNU gettext (https://www.gnu.org/software/gettext/manual/gettext.html)
+Library: boost locale
+Editor: Poedit (https://poedit.net)
+
+Translation files:
+* .pot - Base strings (in english)
+* .po  - Translation of the strings
+* .mo  - Compiled '.po' file. (Only used in the source code translations) (Done with the editor)
+
+There are two core texts extractions: Source code texts and Game data texts (from the FCS).
+
+Source code
+================
+This translation file contains: the strings from the source code, the tips from tips.txt
+Extracted directly from code files. The xml editor files are also included since they contain translatable texts.
+To update the strings from source, use the editor to parse the source files. (The .pot file should be configured before with the source folder path and extraction functions (this is done once)).
+The translation of this strings is handled by the boost locale library.
+This translation files need to be compiled (done with the editor) and placed in the folder: './locale/{locale name}/LC_MESSAGES/main.mo', where the {locale id} represents the locale code. (More info: https://www.gnu.org/software/gettext/manual/gettext.html#Setting-the-POSIX-Locale)
+
+
+Game data
+================
+Extracted through the Construction Set based on loaded mods.
+It creates a base translation file for the non-dialogue names, descriptions, etc. For the dialogue, it creates one file per non-empty dialogue group and one for the word swaps. This way they are context-grouped.
+The extracted files are placed in the folder "./__translations/base/".
+
+To import a translated language (create the translation mod), you need to create a folder in "./__translations/" with the locale code as the name (and the same structure as the exported ones).
+This will create a mod file with the name of locale code and with extension 'translation' (e.g. es.translation).
+This file needs to be copied to the corresponding "./locale/" folder.
+
+Note: The extracted files are in the .pot format and the imported files are on the .po format (not .mo), this is to use the same format as the source code translations (for consistency and simplicity) but since they are loaded as a mod rather than through boost library, there is no need to compile them into a .mo file.
+
+
+Other files
+================
+Text files like "tips.txt", "namesM.txt", etc., need to be individualy translated and placed in the corresponding folder. (See below for more info) 
+
+
+-- IN GAME STUFF --
+================
+All the translations will be under the 'locale' folder with each translation in the corresponding folder with its locale code as name.
+Those folders are scanned when the game loads and are displayed in the game launcher.
+Each of this folders acts the same way as the mods folder does; meaning that files and folders here overwrite any of the base game data folders. This is so it can have different fonts and other locale dependant content.
+    Note: The 'en' folder is ignored since there will be no data to overwrite.
+
+Example of folder structure:
+- Working copy
+    - locale
+        - en
+            - LC_MESSAGES
+                  main.pot
+        - es
+            - gui
+                - fonts
+                      kenshi_fonts.xml
+                      ...
+            - LC_MESSAGES
+                  main.mo
+              es.translation
+              namesF.txt
+              namesM.txt
+              namesMF.txt
+              ...

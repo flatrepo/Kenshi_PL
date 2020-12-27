@@ -1,0 +1,460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 53411-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Green
+#: 53411-Dialogue.mod:0
+msgid "Just as it started getting stale in here a newbie comes strollin' in! How about a little wager eh, you and me? I shoot a greenfruit off'a guys head from half a mile away and you pay off my bar tab... Jim'll do it, he's drank so much sake that he'd agree to sell his own mother right now..."
+msgstr ""
+
+#. Id: 53412-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53411-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#: 53412-Dialogue.mod:0
+msgid "Really. Let's not do that."
+msgstr ""
+
+#. Id: 53422-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53412-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Green
+#: 53422-Dialogue.mod:0
+msgid "Gah! You're no fun..."
+msgstr ""
+
+#. Id: 53423-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53422-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#: 53423-Dialogue.mod:0
+msgid "So... you're a gunner?"
+msgstr ""
+
+#. Id: 53424-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53422-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#: 53424-Dialogue.mod:0
+msgid "Well, I'll leave you to it."
+msgstr ""
+
+#. Id: 53413-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53411-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#: 53413-Dialogue.mod:0
+msgid "An eye for shooting, eh? "
+msgstr ""
+
+#. Id: 53415-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53413-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Green
+#: 53415-Dialogue.mod:0
+msgid "Hell, you're lookin' at one of the best shooters in the swamps! Honed my skills workin' on a smuggler base 'til my crew got wiped out by Skull Collectors, Okran have mercy on their souls... Well damn, now you got me spoutin' religious crap, look."
+msgstr ""
+
+#. Id: 53416-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53415-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#: 53416-Dialogue.mod:0
+msgid "Fancy shooting for me?"
+msgstr ""
+
+#. Id: 53417-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53416-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Green
+#: 53417-Dialogue.mod:0
+msgid "What, an' quit my days shootin' greenfruit off'a heads?... Look, I already failed my crew before, life holed up in a bar's actually startin' to grow on me."
+msgstr ""
+
+#. Id: 53418-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (53417-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#: 53418-Dialogue.mod:0
+msgid "We all fail sometimes, no one is perfect. Join me."
+msgstr ""
+
+#. Id: 53419-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (53418-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Green
+#: 53419-Dialogue.mod:0
+msgid "[They sip on their drink]"
+msgstr ""
+
+#. Id: 53420-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (53419-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#: 53420-Dialogue.mod:0
+msgid "You don't want to spend your days a bar fly."
+msgstr ""
+
+#. Id: 53421-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (53420-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Green
+#: 53421-Dialogue.mod:0
+msgid "... Alright. I'll shoot for you. But I wasn't kidding about payin' off my bar tab you know. You want my turret skills you're gonna have to fork the bill, 2300 Cats."
+msgstr ""
+
+#. Id: 53435-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (53421-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2300, Tag: -1
+#. Id: 51765-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51764-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>1000, Tag: -1
+#. Id: 64118-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64116-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 1381-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (1377-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 52538-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47779-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#. Id: 15104-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (15103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw medic 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 40526-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (40524-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#. Id: 50318-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (50317-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 53435-Dialogue.mod:0 51765-Dialogue.mod:0 64118-Dialogue.mod:0 1381-gamedata.base:0 52538-Dialogue.mod:0 15104-Dialogue.mod:1 40526-gamedata.base:1 50318-Dialogue.mod:1
+msgid "Deal."
+msgstr ""
+
+#. Id: 53440-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (53435-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Green
+#: 53440-Dialogue.mod:0
+msgid "Appreciate it."
+msgstr ""
+
+#. Id: 53436-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (53421-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#. Id: 44319-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<50, Tag: -1
+#. Id: 44321-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44307-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<200, Tag: -1
+#. Id: 19714-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12029-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#. Id: 19395-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19674-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<7500, Tag: -1
+#. Id: 12729-Dialogue (11) (2).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (12723-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#. Id: 13306-Escapes.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (13291-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#. Id: 47110-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47106-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#. Id: 18046-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1759-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#. Id: 65910-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65927-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crab town recruit
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<6000, Tag: -1
+#. Id: 20245-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw medic 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#. Id: 57999-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57928-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<100000, Tag: -1
+#. Id: 57954-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57929-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<75000, Tag: -1
+#. Id: 57986-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57930-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<55000, Tag: -1
+#. Id: 57994-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57940-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<35000, Tag: -1
+#. Id: 58115-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58112-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<15000, Tag: -1
+#. Id: 58027-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58020-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<50000, Tag: -1
+#. Id: 58030-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58021-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<40000, Tag: -1
+#. Id: 58033-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58022-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<30000, Tag: -1
+#. Id: 58036-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58023-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<20000, Tag: -1
+#. Id: 58249-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58242-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<10000, Tag: -1
+#. Id: 19327-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19313-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 19594-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19591-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Shek Kingdom
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#. Id: 18806-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15086-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 700 - non robot
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#: 53436-Dialogue.mod:0 44319-Dialogue.mod:0 44321-Dialogue.mod:0 19714-Dialogue.mod:0 19395-Dialogue.mod:0 12729-Dialogue?(11)?(2).mod:0 13306-Escapes.mod:1 47110-Dialogue.mod:0 18046-Recruits?Dialogue.mod:0 65910-Dialogue.mod:0 20245-Dialogue.mod:0 57999-Dialogue.mod:0 57954-Dialogue.mod:0 57986-Dialogue.mod:0 57994-Dialogue.mod:0 58115-Dialogue.mod:0 58027-Dialogue.mod:0 58030-Dialogue.mod:0 58033-Dialogue.mod:0 58036-Dialogue.mod:0 58249-Dialogue.mod:0 19327-Dialogue.mod:0 19594-Dialogue.mod:0 18806-Dialogue.mod:0
+msgid "I don't have that much money..."
+msgstr ""
+
+#. Id: 53437-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (53436-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Green
+#: 53437-Dialogue.mod:0
+msgid "Makes two of us, eh."
+msgstr ""
+
+#. Id: 53438-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (53421-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#. Id: 41921-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41915-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#. Id: 64119-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64116-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#. Id: 64115-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64109-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#. Id: 50368-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50353-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 3
+#. Id: 59660-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59658-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 53438-Dialogue.mod:0 41921-Dialogue.mod:0 64119-Dialogue.mod:0 64115-Dialogue.mod:0 50368-Dialogue.mod:0 59660-Dialogue.mod:0
+msgid "No deal."
+msgstr ""
+
+#. Id: 53439-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (53438-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Green
+#: 53439-Dialogue.mod:0
+msgid "Then you'll have to find yourself another shooter."
+msgstr ""
+
+#. Id: 53433-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (53419-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#: 53433-Dialogue.mod:0
+msgid "Don't beat yourself up. It's not what your crew would want."
+msgstr ""
+
+#. Id: 53430-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (53417-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#: 53430-Dialogue.mod:0
+msgid "So, that's it? You failed, so now you quit?"
+msgstr ""
+
+#. Id: 53431-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (53417-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#: 53431-Dialogue.mod:0
+msgid "If I was one of your crew I'd slap you upside the head."
+msgstr ""
+
+#. Id: 53432-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (53417-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#: 53432-Dialogue.mod:0
+msgid "Well, have fun holed up in here then."
+msgstr ""
+
+#. Id: 53426-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53415-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#: 53426-Dialogue.mod:0
+msgid "So, you failed to protect your crew."
+msgstr ""
+
+#. Id: 53428-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Green
+#: 53428-Dialogue.mod:0
+msgid "... [They sip on their drink]"
+msgstr ""
+
+#. Id: 53429-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (53428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Green
+#: 53429-Dialogue.mod:0
+msgid "Provokin' people like that'll get you a black eye in this town, /OUTLANDER/."
+msgstr ""
+
+#. Id: 53414-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53411-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#: 53414-Dialogue.mod:0
+msgid "Ask someone else, I'm not interested."
+msgstr ""
+

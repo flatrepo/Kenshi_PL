@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 18129-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18128-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from Hiver
+#. Id: 19762-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (19761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from a hiver
+#: 18129-Dialogue.mod:2 19762-Dialogue.mod:2
+msgid "They take from the Hive!"
+msgstr ""
+

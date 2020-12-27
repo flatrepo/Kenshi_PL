@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 17954-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin hiver defeats someone
+#. -- Condition: My Race(s): Książę Roju
+#: 17954-Dialogue.mod:6
+msgid "Stay away from me"
+msgstr ""
+
+#. Id: 17954-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin hiver defeats someone
+#. -- Condition: My Race(s): Książę Roju
+#: 17954-Dialogue.mod:7
+msgid "I will survive. I don't want to die..."
+msgstr ""
+
+#. Id: 17955-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin hiver defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Książę Roju
+#: 17955-Dialogue.mod:0
+msgid "Okay, who's next?"
+msgstr ""
+

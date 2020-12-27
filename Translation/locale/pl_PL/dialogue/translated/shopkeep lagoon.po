@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 95584-__Mourn.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#: 95584-__Mourn.mod:0
+msgid "On route to the Ashlands? Guess you'll be looking to stock up."
+msgstr "W drodze do Popielnych Ziem? Myślę, że będziesz potrzebować dodatkowego wyposażenia."
+
+#. Id: 95586-__Mourn.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95584-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep lagoon
+#: 95586-__Mourn.mod:0
+msgid "Can you tell me about the Ashlands?"
+msgstr "Możesz mi opowiedzieć coś o Popielnych Ziemiach?"
+
+#. Id: 95589-__Mourn.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95586-__Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#: 95589-__Mourn.mod:0
+msgid "A tech hunter asking questions 'stead of spouting stories? Now that's a first..."
+msgstr "Łowca technologii zadający pytania, zamiast opowiadania bzdurnych historii? Cóż, chyba pierwszy taki na świecie."
+
+#. Id: 95590-__Mourn.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95589-__Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#: 95590-__Mourn.mod:0
+msgid "Well, the Ashlands lie to the south east... the ultimate expedition for any tech hunting pro. You could say it's exactly because nobody ever makes it there that we crazy ones just find it all the more enticing. Apart from the Ashland Drifters of course, but they're long gone."
+msgstr "A więc, Popielne Ziemie leżą na południowym wschodzie... Ostateczny cel podróży każdego profesjonalnego techłowcy. Można powiedzieć, że nas, szaleńców, kusi to miejsce tym bardziej, że nikt nigdy tam nie dociera. Kiedyś istnieli Popielni Włóczędzy, ale od dawna żadnego nie ma."
+
+#. Id: 95738-__Mourn.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (95590-__Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#: 95738-__Mourn.mod:0
+msgid "There are three ways into it: south through the hives or south east directly through the gorillos. Either way will get a novice ripped to shreds..."
+msgstr "Są trzy trasy prowadzące do tego miejsca. Południowa, przez roje, albo południowo-wschodnia przez siedliska goryli. Każda z nich to śmierć dla nowicjusza."
+
+#. Id: 95595-__Mourn.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95592-__Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#: 95595-__Mourn.mod:0
+msgid "Careful, adventurer. They don't call it the Forbidden Lands for nothing."
+msgstr "Uważaj, podróżniku. Nazwa "Zakazane Ziemie" nie wzięła się z powietrza."
+
+#. Id: 95593-__Mourn.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95738-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep lagoon
+#: 95593-__Mourn.mod:0
+msgid "And the third way?"
+msgstr "A trzecia?"
+
+#. Id: 95594-__Mourn.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95593-__Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#: 95594-__Mourn.mod:0
+msgid "East. Skirt the pits and swim it there."
+msgstr "Wschód. Przeskocz szczeliny i przepłyń kawałek."
+

@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 14418-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attempt rescue thug
+#. -- Condition: My Race(s): Borealczyk or Shek
+#. Id: 13234-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc lockpick attempt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Borealczyk or Shek
+#: 14418-Dialogue?(4).mod:0 13234-Escapes.mod:0
+msgid "Come on, come on"
+msgstr ""
+
+#. Id: 14418-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attempt rescue thug
+#. -- Condition: My Race(s): Borealczyk or Shek
+#: 14418-Dialogue?(4).mod:1
+msgid "Yeah, that's it..."
+msgstr ""
+
+#. Id: 14418-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attempt rescue thug
+#. -- Condition: My Race(s): Borealczyk or Shek
+#: 14418-Dialogue?(4).mod:2
+msgid "Yeah... keep going..."
+msgstr ""
+
+#. Id: 14418-Dialogue (4).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attempt rescue thug
+#. -- Condition: My Race(s): Borealczyk or Shek
+#: 14418-Dialogue?(4).mod:3
+msgid "Nearly got it..."
+msgstr ""
+
+#. Id: 14418-Dialogue (4).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attempt rescue thug
+#. -- Condition: My Race(s): Borealczyk or Shek
+#: 14418-Dialogue?(4).mod:4
+msgid "Easy..."
+msgstr ""
+

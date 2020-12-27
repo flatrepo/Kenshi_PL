@@ -1,0 +1,1302 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3225-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#: 3225-gamedata.base:0
+msgid "/OI/! Look at that guy!"
+msgstr ""
+
+#. Id: 3225-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#. Id: 3847-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=0, Tag: -1
+#. Id: 14462-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. Id: 98862-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base after victory
+#. Id: 12611-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: crime lockpick
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 19132-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from TOUGH mean
+#. Id: 12370-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper betrayal
+#. Id: 44490-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. Id: 5204-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: uniform theif
+#. Id: 13468-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#. Id: 17450-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. Id: 16744-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slaver witness assault
+#. Id: 13729-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mugger
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 5372-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police slave spotting escapED
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 96163-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sand ninja shoo
+#. Id: 4796-dialogue-02.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (4794-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#. Id: 42269-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: patriot see neutral
+#. -- Condition: Target Race(s): Książę Roju or Żołnierz Roju or Robotnik Roju or Shek or Meridiańczyk
+#. Id: 16232-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante spots imposter
+#. Id: 42297-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: patriot harrassment
+#. Id: 42300-gamedata.base
+#. -- Index: 3.2
+#. -- Parent line: 2 (42299-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: patriot harrassment
+#: 3225-gamedata.base:1 3847-gamedata.base:0 14462-Dialogue?(4).mod:0 98862-Dialogue.mod:0 12611-gamedata.base:2 19132-Dialogue.mod:0 12370-Dialogue?(10).mod:1 44490-Dialogue.mod:2 5204-gamedata.base:0 13468-Escapes.mod:3 17450-Dialogue.mod:1 16744-Dialogue.mod:1 13729-Escapes.mod:0 5372-gamedata.base:5 96163-Dialogue.mod:4 4796-dialogue-02.mod:1 42269-gamedata.base:0 16232-Dialogue.mod:3 42297-gamedata.base:0 42300-gamedata.base:2
+msgid "/OI/!"
+msgstr ""
+
+#. Id: 3225-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#. Id: 3232-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (3225-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 3225-gamedata.base:2 3232-gamedata.base:1
+msgid "/OI/ /INSULT/!"
+msgstr ""
+
+#. Id: 3225-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#: 3225-gamedata.base:3
+msgid "/OI/, /YOU/!"
+msgstr ""
+
+#. Id: 3225-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#: 3225-gamedata.base:4
+msgid "/INSULT/! /OI/!"
+msgstr ""
+
+#. Id: 3225-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#: 3225-gamedata.base:5
+msgid "/OI/! /INSULT/!"
+msgstr ""
+
+#. Id: 3232-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (3225-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 3232-gamedata.base:0
+msgid "/OI/ /YOU/! /COWARD/ /BOY/!"
+msgstr ""
+
+#. Id: 3244-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (3243-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3244-gamedata.base:0
+msgid "You scared? You scared, /BOY/?"
+msgstr ""
+
+#. Id: 3244-gamedata.base
+#. -- Index: 3.1
+#. -- Parent line: 2 (3243-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3244-gamedata.base:1
+msgid "You afraid of me?"
+msgstr ""
+
+#. Id: 3245-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (3244-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3245-gamedata.base:0
+msgid "RRAAARRR!!!"
+msgstr ""
+
+#. Id: 3766-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (3245-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3766-gamedata.base:0
+msgid "HAHA HA!"
+msgstr ""
+
+#. Id: 3767-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (3766-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 3274-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 3869-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 7816-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (7814-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations 
+#. Id: 7822-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (7821-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations 
+#. Id: 7820-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (7819-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations 
+#. Id: 7858-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (7857-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Swamper Gang Bad Relations 
+#. Id: 7900-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (7899-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations 
+#. Id: 14589-Dialogue (4).mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (14584-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up
+#. Id: 3734-gamedata.base
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit join in fight
+#. Id: 45527-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dust bandits spot intruder
+#. Id: 16753-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (7149-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. Id: 44879-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: intruder shout
+#: 3767-gamedata.base:0 3274-gamedata.base:2 3869-gamedata.base:0 7816-Dialogue.mod:4 7822-Dialogue.mod:4 7820-Dialogue.mod:4 7858-Dialogue.mod:4 7900-Dialogue.mod:1 14589-Dialogue?(4).mod:1 3734-gamedata.base:8 45527-Dialogue.mod:6 16753-Dialogue.mod:0 44879-rebirth.mod:2
+msgid "/ATTACK/!"
+msgstr ""
+
+#. Id: 3850-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (3766-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 3850-gamedata.base:0
+msgid "Mind if we follow you?"
+msgstr ""
+
+#. Id: 3850-gamedata.base
+#. -- Index: 6.1
+#. -- Parent line: 5 (3766-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 3850-gamedata.base:1
+msgid "Can we come with you?"
+msgstr ""
+
+#. Id: 3850-gamedata.base
+#. -- Index: 6.2
+#. -- Parent line: 5 (3766-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 3850-gamedata.base:2
+msgid "We're coming with you, /INSULT/."
+msgstr ""
+
+#. Id: 3851-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (3850-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3851-gamedata.base:0
+msgid "You /INSULT/s need protection around here. It's not safe."
+msgstr ""
+
+#. Id: 3851-gamedata.base
+#. -- Index: 7.1
+#. -- Parent line: 6 (3850-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3851-gamedata.base:1
+msgid "We should look after you. You look weak."
+msgstr ""
+
+#. Id: 3851-gamedata.base
+#. -- Index: 7.2
+#. -- Parent line: 6 (3850-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3851-gamedata.base:2
+msgid "We should band together for safety!"
+msgstr ""
+
+#. Id: 3852-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (3851-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 3852-gamedata.base:0
+msgid "Give us some coin."
+msgstr ""
+
+#. Id: 3852-gamedata.base
+#. -- Index: 8.1
+#. -- Parent line: 7 (3851-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 3852-gamedata.base:1
+msgid "Do you have any money?"
+msgstr ""
+
+#. Id: 3852-gamedata.base
+#. -- Index: 8.2
+#. -- Parent line: 7 (3851-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 3852-gamedata.base:2
+msgid "Show us your money. We'll keep it safe."
+msgstr ""
+
+#. Id: 3854-gamedata.base
+#. -- Index: 9.0
+#. -- Parent line: 8 (3852-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3854-gamedata.base:0
+msgid "How much are you going to pay us?"
+msgstr ""
+
+#. Id: 3854-gamedata.base
+#. -- Index: 9.1
+#. -- Parent line: 8 (3852-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3854-gamedata.base:1
+msgid "We can't do it for free, of course."
+msgstr ""
+
+#. Id: 3854-gamedata.base
+#. -- Index: 9.2
+#. -- Parent line: 8 (3852-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3854-gamedata.base:2
+msgid "How much money have you got?"
+msgstr ""
+
+#. Id: 3854-gamedata.base
+#. -- Index: 9.3
+#. -- Parent line: 8 (3852-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3854-gamedata.base:3
+msgid "We can keep your valuables safe."
+msgstr ""
+
+#. Id: 3855-gamedata.base
+#. -- Index: 10.0
+#. -- Parent line: 9 (3854-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 4690-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 4782-dialogue-02.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (4781-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 3855-gamedata.base:0 4690-dialogue-02.mod:0 4782-dialogue-02.mod:0
+msgid "/OI/."
+msgstr ""
+
+#. Id: 3856-gamedata.base
+#. -- Index: 11.0
+#. -- Parent line: 10 (3855-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3856-gamedata.base:0
+msgid "/FUCKING/ pay us!"
+msgstr ""
+
+#. Id: 3856-gamedata.base
+#. -- Index: 11.1
+#. -- Parent line: 10 (3855-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3856-gamedata.base:1
+msgid "Pay us!"
+msgstr ""
+
+#. Id: 3856-gamedata.base
+#. -- Index: 11.2
+#. -- Parent line: 10 (3855-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3856-gamedata.base:2
+msgid "Give me some /FUCKING/ money!"
+msgstr ""
+
+#. Id: 3859-gamedata.base
+#. -- Index: 13.0
+#. -- Parent line: 12 (3857-gamedata.base)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3859-gamedata.base:0
+msgid "Yeah! /FUCKING/ pay us, /INSULT/!"
+msgstr ""
+
+#. Id: 3797-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (3243-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 4016-dialogue-02.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (3946-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 3797-gamedata.base:0 4016-dialogue-02.mod:1
+msgid "/FUCKOFF/."
+msgstr ""
+
+#. Id: 3797-gamedata.base
+#. -- Index: 3.1
+#. -- Parent line: 2 (3243-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 13816-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13815-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness looting ally
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 15268-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. Id: 13511-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13510-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit thug shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. Id: 45587-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (45583-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit thug shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 43360-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43359-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#. Id: 13466-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13460-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit attacked by someone else
+#. Id: 13431-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 4016-dialogue-02.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (3946-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 8373-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
+#. Id: 5212-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard for hire
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 3797-gamedata.base:1 13816-Escapes.mod:0 15268-Dialogue.mod:1 13511-Escapes.mod:0 45587-Dialogue.mod:2 43360-rebirth.mod:0 13466-Escapes.mod:0 13431-Escapes.mod:1 4016-dialogue-02.mod:0 8373-Dialogue.mod:0 5212-gamedata.base:0
+msgid "/FUCKOFF/!"
+msgstr ""
+
+#. Id: 3810-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (3797-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 6443-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#. Id: 51662-rebirth.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc contract betrayal
+#. Id: 51662-rebirth.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc contract betrayal
+#. Id: 8508-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed by enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. Id: 5067-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#: 3810-gamedata.base:0 6443-Dialogue.mod:1 51662-rebirth.mod:4 51662-rebirth.mod:7 8508-Dialogue.mod:2 5067-gamedata.base:1
+msgid "/WTF/?"
+msgstr ""
+
+#. Id: 3821-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (3810-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3821-gamedata.base:0
+msgid "/THREAT/! You /FUCKING/ /INSULT/! You /BASTARD/!"
+msgstr ""
+
+#. Id: 3746-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (3225-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=0, Tag: -1
+#. Id: 3749-gamedata.base
+#. -- Index: 2.3
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 16035-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15695-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military imposter
+#. Id: 16075-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15695-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military imposter
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 3746-gamedata.base:1 3749-gamedata.base:3 16035-Dialogue.mod:0 16075-Dialogue.mod:0
+msgid "Come here!"
+msgstr ""
+
+#. Id: 3746-gamedata.base
+#. -- Index: 1.2
+#. -- Parent line: 0 (3225-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=0, Tag: -1
+#: 3746-gamedata.base:2
+msgid "I'm talking to you, /INSULT/!"
+msgstr ""
+
+#. Id: 3749-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 41843-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16392-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 47805-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47803-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog extortion pt 2
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 3749-gamedata.base:0 41843-Dialogue.mod:0 47805-Dialogue.mod:0
+msgid "Stop running!"
+msgstr ""
+
+#. Id: 3749-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 3749-gamedata.base:1
+msgid "Come back you /COWARD/!"
+msgstr ""
+
+#. Id: 3749-gamedata.base
+#. -- Index: 2.2
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 3749-gamedata.base:2
+msgid "Why are you running away?"
+msgstr ""
+
+#. Id: 3749-gamedata.base
+#. -- Index: 2.4
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 3749-gamedata.base:4
+msgid "Stop being a /COWARD/!"
+msgstr ""
+
+#. Id: 3749-gamedata.base
+#. -- Index: 2.5
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 3749-gamedata.base:5
+msgid "Don't be a /COWARD/!"
+msgstr ""
+
+#. Id: 3749-gamedata.base
+#. -- Index: 2.6
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 3749-gamedata.base:6
+msgid "We just want to talk!"
+msgstr ""
+
+#. Id: 3749-gamedata.base
+#. -- Index: 2.7
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 3749-gamedata.base:7
+msgid "Why are you running?"
+msgstr ""
+
+#. Id: 3752-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (3749-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: ME, Condition: COPS_AROUND=1, Tag: -1
+#: 3752-gamedata.base:0
+msgid "Uh oh, cops."
+msgstr ""
+
+#. Id: 3755-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (3749-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 3755-gamedata.base:0
+msgid "You can't hide forever, /INSULT/!"
+msgstr ""
+
+#. Id: 3757-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (3749-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3757-gamedata.base:0
+msgid "I /FUCKING/ give up."
+msgstr ""
+
+#. Id: 3757-gamedata.base
+#. -- Index: 3.1
+#. -- Parent line: 2 (3749-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3757-gamedata.base:1
+msgid "Screw this."
+msgstr ""
+
+#. Id: 3757-gamedata.base
+#. -- Index: 3.2
+#. -- Parent line: 2 (3749-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3757-gamedata.base:2
+msgid "Fuck it!"
+msgstr ""
+
+#. Id: 3757-gamedata.base
+#. -- Index: 3.3
+#. -- Parent line: 2 (3749-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3757-gamedata.base:3
+msgid "Ah for fuck's sake."
+msgstr ""
+
+#. Id: 3757-gamedata.base
+#. -- Index: 3.4
+#. -- Parent line: 2 (3749-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 12949-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Borealczyk or Shek
+#. Id: 16145-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (16144-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust bandit spots dogs
+#. Id: 15857-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healed by neutral
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 63666-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63665-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits join ally
+#: 3757-gamedata.base:4 12949-Dialogue?(11)?(2).mod:1 16145-Dialogue.mod:5 15857-Dialogue.mod:0 63666-Dialogue.mod:0
+msgid "/FUCK/!"
+msgstr ""
+
+#. Id: 3758-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (3757-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3758-gamedata.base:0
+msgid "/FUCKING/ /COWARD/!"
+msgstr ""
+
+#. Id: 3758-gamedata.base
+#. -- Index: 4.2
+#. -- Parent line: 3 (3757-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3758-gamedata.base:2
+msgid "Gutless /BASTARD/!"
+msgstr ""
+
+#. Id: 3751-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3751-gamedata.base:0
+msgid "/OI/! Come here!"
+msgstr ""
+
+#. Id: 3751-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3751-gamedata.base:1
+msgid "We're gonna have words!"
+msgstr ""
+
+#. Id: 3751-gamedata.base
+#. -- Index: 2.2
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3751-gamedata.base:2
+msgid "What are you looking at?"
+msgstr ""
+
+#. Id: 3751-gamedata.base
+#. -- Index: 2.3
+#. -- Parent line: 1 (3746-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3751-gamedata.base:3
+msgid "Think you are strong?"
+msgstr ""
+
+#. Id: 3274-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 14552-Dialogue (4).mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (14548-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 17995-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver ronin attacked by someone else
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Książę Roju
+#. Id: 19808-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver ronin attacked by someone else
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: My Race(s): Książę Roju
+#. Id: 1532360-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532358-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#. Id: 47722-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47721-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: assassin fail hiver
+#. Id: 63557-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (63556-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN Assault phase
+#. Id: 96671-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96670-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#. Id: 96677-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#. Id: 3734-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit join in fight
+#. Id: 1531989-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1531988-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN Assault phase woman
+#. Id: 17935-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Książę Roju
+#. Id: 98066-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98061-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver begs for food
+#. Id: 59501-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: reaver witness assault
+#. Id: 96622-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (96621-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninjas announce
+#. Id: 96646-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (96645-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Swamp ninjas announce
+#. Id: 96475-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (96473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Krals Chosen announce
+#. Id: 61085-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#. Id: 61025-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Charge! crowd trigger
+#. Id: 8386-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Prepare the turrets
+#. Id: 98001-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97989-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. Id: 96701-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (96700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. Id: 47730-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin failed military
+#. Id: 98141-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#. Id: 56065-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56056-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: noble procession captain
+#. Id: 43836-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness assault
+#. -- Condition: My Sub-Race(s): Borealczyk or Shek
+#. Id: 46318-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#. Id: 46328-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 46329-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#. Id: 46330-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#. Id: 95893-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (96754-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Illegal building announce
+#. Id: 15705-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#. Id: 15709-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (15706-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#. Id: 95500-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation enemy hunt
+#. Id: 15735-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15734-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted military by someone else
+#. Id: 17605-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17598-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stranger interrupts Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 1531997-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1531996-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN Assault phase Prayer Day
+#. Id: 99085-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (99084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 3274-gamedata.base:0 14552-Dialogue?(4).mod:3 17995-Dialogue.mod:0 19808-Dialogue.mod:2 1532360-Dialogue.mod:0 47722-Dialogue.mod:1 63557-Dialogue.mod:0 96671-Dialogue.mod:0 96677-Dialogue.mod:0 3734-gamedata.base:1 1531989-Dialogue.mod:0 17935-Dialogue.mod:0 98066-Dialogue.mod:0 59501-Dialogue.mod:0 96622-Dialogue.mod:2 96646-Dialogue.mod:0 96475-Dialogue.mod:0 61085-Dialogue.mod:0 61025-Dialogue.mod:1 8386-Dialogue.mod:0 98001-Dialogue.mod:0 96701-Dialogue.mod:0 47730-Dialogue.mod:5 98141-Dialogue.mod:0 56065-rebirth.mod:0 43836-Dialogue.mod:1 46318-Dialogue.mod:3 46328-Dialogue.mod:4 46329-Dialogue.mod:0 46330-Dialogue.mod:0 95893-Dialogue.mod:1 15705-Dialogue.mod:2 15709-Dialogue.mod:0 95500-Dialogue.mod:1 15735-Dialogue.mod:0 17605-Dialogue.mod:0 1531997-Dialogue.mod:0 99085-Dialogue.mod:0
+msgid "Attack!"
+msgstr ""
+
+#. Id: 3274-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3274-gamedata.base:1
+msgid "Raaarrrgggghhh!!!!"
+msgstr ""
+
+#. Id: 3847-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=0, Tag: -1
+#: 3847-gamedata.base:1
+msgid "/OI/! OI!"
+msgstr ""
+
+#. Id: 3847-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=0, Tag: -1
+#: 3847-gamedata.base:2
+msgid "Oi oi oi!"
+msgstr ""
+
+#. Id: 3861-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (3847-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 3861-gamedata.base:0
+msgid "What you doing, /INSULT/?"
+msgstr ""
+
+#. Id: 3861-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (3847-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 3861-gamedata.base:1
+msgid "Hey, /INSULT/."
+msgstr ""
+
+#. Id: 3863-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (3861-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3863-gamedata.base:0
+msgid "Hey."
+msgstr ""
+
+#. Id: 3863-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (3861-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3863-gamedata.base:1
+msgid "Oi."
+msgstr ""
+
+#. Id: 3864-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (3863-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 4448-dialogue-02.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3864-gamedata.base:0 4448-dialogue-02.mod:1
+msgid "/INSULT/."
+msgstr ""
+
+#. Id: 3865-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (3864-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 3867-gamedata.base
+#. -- Index: 6.1
+#. -- Parent line: 5 (3866-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 3865-gamedata.base:0 3867-gamedata.base:1
+msgid "Where you going?"
+msgstr ""
+
+#. Id: 3865-gamedata.base
+#. -- Index: 4.1
+#. -- Parent line: 3 (3864-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 13927-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. Id: 46040-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton spots intruder
+#. -- Condition: My Race(s): Szkieletron
+#. Id: 53202-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50032-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player approach town
+#. Id: 51752-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shinobi guild plastic surgeon
+#. -- Condition: Who: ME, Condition: FACTION_RANK=0, Tag: -1
+#: 3865-gamedata.base:1 13927-Escapes.mod:0 46040-Dialogue.mod:2 53202-Dialogue.mod:0 51752-rebirth.mod:2
+msgid "What are you doing here?"
+msgstr ""
+
+#. Id: 3865-gamedata.base
+#. -- Index: 4.2
+#. -- Parent line: 3 (3864-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3865-gamedata.base:2
+msgid "What are you doing, /INSULT/?"
+msgstr ""
+
+#. Id: 3866-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (3865-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3866-gamedata.base:0
+msgid "Where you going, /INSULT/?"
+msgstr ""
+
+#. Id: 3866-gamedata.base
+#. -- Index: 5.1
+#. -- Parent line: 4 (3865-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 12808-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: My Sub-Race(s): Borealczyk or Shek
+#. Id: 40728-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness lockpicking
+#. Id: 51662-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc contract betrayal
+#. Id: 14075-Dialogue (12).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 3866-gamedata.base:1 12808-Dialogue?(11)?(2).mod:1 40728-Dialogue.mod:2 51662-rebirth.mod:2 14075-Dialogue?(12).mod:6
+msgid "What are you doing?"
+msgstr ""
+
+#. Id: 3866-gamedata.base
+#. -- Index: 5.2
+#. -- Parent line: 4 (3865-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3866-gamedata.base:2
+msgid "Hey. /INSULT/."
+msgstr ""
+
+#. Id: 3867-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (3866-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 3867-gamedata.base:0
+msgid "Where you /INSULT/s going?"
+msgstr ""
+
+#. Id: 3867-gamedata.base
+#. -- Index: 6.2
+#. -- Parent line: 5 (3866-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 3867-gamedata.base:2
+msgid "Hey. /YOU/."
+msgstr ""
+
+#. Id: 3873-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (3867-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3873-gamedata.base:0
+msgid "/INSULT/? Are you /FUCKING/ listening?"
+msgstr ""
+
+#. Id: 3873-gamedata.base
+#. -- Index: 7.1
+#. -- Parent line: 6 (3867-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 3873-gamedata.base:1
+msgid "Hey, /INSULT/?"
+msgstr ""
+

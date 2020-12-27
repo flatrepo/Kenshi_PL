@@ -1,0 +1,200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 95564-Mourn.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (95563-Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader mourn
+#. Id: 45027-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44626-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamper trade
+#. Id: 182-gamedata.quack
+#. -- Index: 1.1
+#. -- Parent line: 0 (181-gamedata.quack)
+#. -- Speaker: Target (1)
+#. -- Group title: trader1
+#. Id: 1534130-__Fixes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (1534128-__Fixes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Trade unlock
+#. Id: 95585-__Mourn.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (95584-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep lagoon
+#: 95564-Mourn.mod:1 45027-Dialogue.mod:1 182-gamedata.quack:1 1534130-__Fixes.mod:1 95585-__Mourn.mod:1
+msgid "Show me your goods."
+msgstr "Pokaż mi, co masz."
+
+#. Id: 95564-Mourn.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (95563-Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader mourn
+#. Id: 45027-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (44626-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamper trade
+#. Id: 182-gamedata.quack
+#. -- Index: 1.3
+#. -- Parent line: 0 (181-gamedata.quack)
+#. -- Speaker: Target (1)
+#. -- Group title: trader1
+#. Id: 1534130-__Fixes.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (1534128-__Fixes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Trade unlock
+#. Id: 95585-__Mourn.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (95584-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep lagoon
+#: 95564-Mourn.mod:3 45027-Dialogue.mod:3 182-gamedata.quack:3 1534130-__Fixes.mod:3 95585-__Mourn.mod:3
+msgid "Let's do business."
+msgstr "Przejdźmy do interesów."
+
+#. Id: 95568-Mourn.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95567-Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#: 95568-Mourn.mod:0
+msgid "Old mining town. Weren't so great with their slave control, turns out. But it makes a good shelter for travellers, so long as the wildlife keeps at bay..."
+msgstr "Stare górnicze miasto. Nie było takie wspaniałe z kontrolą niewolników, na to wygląda. Ale jest dobrym schronieniem dla podróżników, dopóki trzyma dzicz z dala..."
+
+#. Id: 95569-Mourn.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95568-Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#: 95569-Mourn.mod:0
+msgid "... Speaking of which, stay outta the HQ. And leave the gates locked... Call it a pest control measure that no one wants to deal with, eh."
+msgstr "Przy okazji, nie zbliżaj się do bazy głównej. I zamykaj bramę... Nazwijmy to ochroną przed szkodnikami, którymi nikt nie chce się zająć."
+
+#. Id: 95572-Mourn.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (95569-Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader mourn
+#: 95572-Mourn.mod:0
+msgid "Pest control? Maybe I can help..."
+msgstr "Ochrona przed szkodnikami? Może mogę pomóc..."
+
+#. Id: 95575-Mourn.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95572-Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#: 95575-Mourn.mod:0
+msgid "With all due respect, no, don't touch those gates. I don't care if you think you're the next Tinfist, we lost two men trapping that thing in there. Only takes one wannabe hero to let it back out again..."
+msgstr "Z całym szacunkiem, ale nie. Nie ruszaj tych bram. Nie obchodzi mnie to, że uważasz się za drugiego Blachorękiego, straciliśmy już dwóch ludzi zamykając to coś. Potrzeba jedynie jednego cholernego bohatera, by skurwysyn wyszedł znów na zewnątrz..."
+
+#. Id: 95565-Mourn.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 12613-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 95588-__Mourn.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 95565-Mourn.mod:3 12613-gamedata.base:3 95588-__Mourn.mod:3
+msgid "I never forget a thief. Go shop somewhere else!"
+msgstr "Nigdy nie zapominam mord złodziei. Idź kupować gdzie indziej!"
+
+#. Id: 95565-Mourn.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 12613-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 95588-__Mourn.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 95565-Mourn.mod:4 12613-gamedata.base:4 95588-__Mourn.mod:4
+msgid "Go trade somewhere else, thief!"
+msgstr "Idź handlować gdzie indziej, złodzieju!"
+
+#. Id: 95565-Mourn.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 12613-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 95588-__Mourn.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 95565-Mourn.mod:5 12613-gamedata.base:5 95588-__Mourn.mod:5
+msgid "Thieve's ain't welcome!"
+msgstr "Złodzieje nie są tu mile widziani!"
+
+#. Id: 1534123-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#: 1534123-__Fixes.mod:0
+msgid "... Well, you sure proved me wrong didn't you, /OUTLANDER/?"
+msgstr "Cóż, wygląda na to, że myliłem się co do ciebie, /OUTLANDER/."
+
+#. Id: 1534124-__Fixes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534123-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#: 1534124-__Fixes.mod:0
+msgid "Have a drink on me, eh?... Now, how about a round of applause for the Great White Killer?"
+msgstr "Chcesz się ze mną napić? Wypijmy za pogromcę Wielkiego Białego Zabójcy!"
+
+#. Id: 1534125-__Fixes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534124-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#: 1534125-__Fixes.mod:0
+msgid "Cheers."
+msgstr "Zdrowie."
+

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51781-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish and drugs talk to me
+#: 51781-rebirth.mod:0
+msgid "Need some /FISHDRUGS/?"
+msgstr "Chcesz jakieś ryby?"
+
+#. Id: 51781-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish and drugs talk to me
+#: 51781-rebirth.mod:1
+msgid "Lookin' for some /FISHDRUGS/?"
+msgstr "Szukasz narkotyków?"
+
+#. Id: 51781-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish and drugs talk to me
+#: 51781-rebirth.mod:2
+msgid "Want to buy any of my /FISHDRUGS/ today?"
+msgstr "Chcesz kupić coś z mojego towaru?"
+
+#. Id: 51781-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish and drugs talk to me
+#: 51781-rebirth.mod:3
+msgid "Need any fish or drugs?"
+msgstr "Potrzebujesz ryb albo narkotyków?"
+
+#. Id: 51781-rebirth.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish and drugs talk to me
+#: 51781-rebirth.mod:4
+msgid "Looking for drugs and fish?"
+msgstr "Szukasz ryb albo narkotyków?"
+
+#. Id: 51782-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51781-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: fish and drugs talk to me
+#: 51782-rebirth.mod:0
+msgid "Sure, I'll take a look"
+msgstr "Jasne, pokaż, co masz."
+
+#. Id: 51782-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (51781-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: fish and drugs talk to me
+#: 51782-rebirth.mod:1
+msgid "Okay, lets trade"
+msgstr "Jasne, pohandlujmy."
+

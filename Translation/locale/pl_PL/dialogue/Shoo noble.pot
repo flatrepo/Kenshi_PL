@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 18478-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo noble
+#: 18478-Dialogue.mod:0
+msgid "Leave my abode at once, /PEASANT/!"
+msgstr ""
+
+#. Id: 18478-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo noble
+#: 18478-Dialogue.mod:1
+msgid "Guards! This /PEASANT/ is bothering me!"
+msgstr ""
+
+#. Id: 18478-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo noble
+#: 18478-Dialogue.mod:2
+msgid "Guards! This /PEASANT/ is disturbing me!"
+msgstr ""
+
+#. Id: 18478-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo noble
+#: 18478-Dialogue.mod:3
+msgid "Leave my dwelling at once, /PEASANT/!"
+msgstr ""
+
+#. Id: 18478-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo noble
+#: 18478-Dialogue.mod:4
+msgid "/YUCK/! /DIRTY/ /PEASANT/! Shoo!"
+msgstr ""
+
+#. Id: 18478-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo noble
+#: 18478-Dialogue.mod:5
+msgid "Shoo /PEASANT/! Shoo!"
+msgstr ""
+
+#. Id: 18478-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo noble
+#: 18478-Dialogue.mod:6
+msgid "Shoo! Shoo, /DIRTY/ /PEASANT/!"
+msgstr ""
+
+#. Id: 18478-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo noble
+#: 18478-Dialogue.mod:7
+msgid "/DIRTY/ /PEASANT/! /YUCK/, get rid of it, guards!"
+msgstr ""
+
+#. Id: 42297-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18478-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo noble
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42297-Dialogue.mod:0
+msgid "Guards! Dispose of /HIM/!"
+msgstr ""
+
+#. Id: 42297-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18478-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo noble
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42297-Dialogue.mod:1
+msgid "I want /HIM/ out, NOW, guards!"
+msgstr ""
+
+#. Id: 42297-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18478-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo noble
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42297-Dialogue.mod:2
+msgid "Kill it, guards!"
+msgstr ""
+
+#. Id: 42299-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42297-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo noble
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42299-Dialogue.mod:0
+msgid "GUARDS, NOW!"
+msgstr ""
+
+#. Id: 42299-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (42297-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo noble
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42299-Dialogue.mod:1
+msgid "NOW!"
+msgstr ""
+

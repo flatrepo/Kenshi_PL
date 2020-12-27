@@ -1,0 +1,454 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12029-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me shek engineer
+#: 12029-Dialogue?(10).mod:0
+msgid "Need an engineer? I charge 6000 Cats, flat fee"
+msgstr ""
+
+#. Id: 12029-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me shek engineer
+#: 12029-Dialogue?(10).mod:1
+msgid "/FLATSKIN/, need an engineer? My price is 6000 Cats."
+msgstr ""
+
+#. Id: 12029-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me shek engineer
+#: 12029-Dialogue?(10).mod:2
+msgid "Looking for an engineer, /FLATSKIN/? My cost is 6000 Cats."
+msgstr ""
+
+#. Id: 12047-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12029-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#. Id: 9140-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9135-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#. Id: 14484-rebirth.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (14480-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: doctor shop
+#. Id: 13293-Escapes.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (13291-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#. Id: 15072-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15057-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#. Id: 19015-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19006-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#. Id: 54558-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54551-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: slaver clothing shop
+#. Id: 1741-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (8816-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#. Id: 50582-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50578-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: fish shop
+#. Id: 15044-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15035-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#. Id: 15041-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15033-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#. Id: 1758-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1754-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. Id: 18140-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18136-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 5000
+#. Id: 51784-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51781-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: fish and drugs talk to me
+#. Id: 40522-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (18900-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#. Id: 64662-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (64658-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep robo repair
+#. Id: 11577-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (11574-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 63759-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63754-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: nomad animal town trader
+#. Id: 5094-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5071-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#. Id: 12690-Dialogue (11) (2).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (12687-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#. Id: 12685-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12682-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#. Id: 12709-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12706-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#: 12047-Dialogue?(10).mod:0 9140-Dialogue.mod:0 14484-rebirth.mod:2 13293-Escapes.mod:1 15072-Dialogue.mod:0 19015-Dialogue.mod:0 54558-rebirth.mod:0 1741-gamedata.base:0 50582-rebirth.mod:0 15044-Dialogue.mod:0 15041-Dialogue.mod:1 1758-gamedata.base:0 18140-Recruits?Dialogue.mod:0 51784-rebirth.mod:0 40522-gamedata.base:0 64662-rebirth.mod:1 11577-Dialogue?(10).mod:1 63759-rebirth.mod:0 5094-gamedata.base:0 12690-Dialogue?(11)?(2).mod:0 12685-Dialogue?(11)?(2).mod:1 12709-Dialogue?(11)?(2).mod:0
+msgid "No thanks"
+msgstr "Nie, dzięki."
+
+#. Id: 19693-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me shek engineer
+#: 19693-Dialogue.mod:0
+msgid "Promising... I finally find myself an outsider."
+msgstr ""
+
+#. Id: 19694-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19693-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#: 19694-Dialogue.mod:0
+msgid "Excuse me?"
+msgstr ""
+
+#. Id: 12048-Dialogue (10).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (19694-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me shek engineer
+#: 12048-Dialogue?(10).mod:1
+msgid "I'm an engineer... a good one. But within these walls, you're nothing if you can't fight.. dirt. Outside, I know I'll be respected for what I can do... so, that brings me here, looking for outside work."
+msgstr ""
+
+#. Id: 12050-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (12048-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#: 12050-Dialogue?(10).mod:0
+msgid "Sounds like my kind of city"
+msgstr ""
+
+#. Id: 12053-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (12050-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me shek engineer
+#: 12053-Dialogue?(10).mod:0
+msgid "... Right"
+msgstr ""
+
+#. Id: 12056-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (12053-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#: 12056-Dialogue?(10).mod:0
+msgid "Anyway, how much are you charging?"
+msgstr ""
+
+#. Id: 12057-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (12053-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#: 12057-Dialogue?(10).mod:0
+msgid "Anyway, I'm not interested in hiring you"
+msgstr ""
+
+#. Id: 12051-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (12048-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#: 12051-Dialogue?(10).mod:0
+msgid "How cruel..."
+msgstr ""
+
+#. Id: 12054-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (12051-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me shek engineer
+#: 12054-Dialogue?(10).mod:0
+msgid "Unfortunately it's how society works. But I'll prove my worth. So, do we have a deal?"
+msgstr ""
+
+#. Id: 19722-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (12054-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#. Id: 1766-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. Id: 18049-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16868-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. Id: 18109-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1739-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#. Id: 50322-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50292-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. Id: 50227-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50218-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 4
+#: 19722-Dialogue.mod:0 1766-gamedata.base:1 18049-Recruits?Dialogue.mod:0 18109-Recruits?Dialogue.mod:0 50322-Dialogue.mod:0 50227-Dialogue.mod:0
+msgid "How much are you charging?"
+msgstr ""
+
+#. Id: 19723-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me shek engineer
+#. Id: 18120-Recruits Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18109-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. Id: 1759-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (1757-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 19723-Dialogue.mod:0 18120-Recruits?Dialogue.mod:0 1759-gamedata.base:0
+msgid "6000 Cats."
+msgstr ""
+
+#. Id: 12052-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (12048-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#: 12052-Dialogue?(10).mod:0
+msgid "Well, at least you have the freedom to leave"
+msgstr ""
+
+#. Id: 12055-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (12052-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me shek engineer
+#: 12055-Dialogue?(10).mod:0
+msgid "Truth. Anyway, do we have a deal?"
+msgstr ""
+
+#. Id: 19695-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19693-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#. Id: 2309-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: get lost
+#. Id: 12677-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 19695-Dialogue.mod:0 2309-gamedata.base:0 12677-Dialogue?(11)?(2).mod:4
+msgid "Can I help you?"
+msgstr "Mogę ci pomóc?"
+
+#. Id: 19697-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19693-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#: 19697-Dialogue.mod:0
+msgid "Leave me, I'm not interested"
+msgstr ""
+
+#. Id: 19698-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me shek engineer
+#: 19698-Dialogue.mod:0
+msgid "Flatskin, tin man, outcast... I don't care who you are, I don't care what you look like. This is a fresh start, I need work, outsider. Are you hiring?"
+msgstr ""
+
+#. Id: 19699-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#: 19699-Dialogue.mod:0
+msgid "Fresh start?"
+msgstr ""
+
+#. Id: 19700-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19699-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me shek engineer
+#: 19700-Dialogue.mod:0
+msgid "Around here I'm just a low class peasant. You get treated like dirt if you're not a fearless fighting machine... Well, I'm good at what I do and I deserve better than to be treated like a servant. So, now... I start over."
+msgstr ""
+
+#. Id: 19703-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19700-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#: 19703-Dialogue.mod:0
+msgid "How much are you charging? What are your skills?"
+msgstr ""
+
+#. Id: 19708-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19703-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me shek engineer
+#: 19708-Dialogue.mod:0
+msgid "I charge 6000 Cats. I'm an engineer, I build things. Are you interested?"
+msgstr ""
+
+#. Id: 19704-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19700-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#: 19704-Dialogue.mod:0
+msgid "Screw 'em all. I'll treat you with respect."
+msgstr ""
+
+#. Id: 19705-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19700-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#: 19705-Dialogue.mod:0
+msgid "I'm definitely not interested in hiring a peasant."
+msgstr ""
+
+#. Id: 19707-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19705-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me shek engineer
+#. Id: 11568-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (11567-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#. Id: 11579-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11578-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#: 19707-Dialogue.mod:0 11568-Dialogue?(10).mod:0 11579-Dialogue?(10).mod:0
+msgid "Disappointing"
+msgstr ""
+
+#. Id: 19706-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19700-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#: 19706-Dialogue.mod:0
+msgid "Sorry, I can't help you."
+msgstr ""
+
+#. Id: 19701-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#: 19701-Dialogue.mod:0
+msgid "Sure, how much? What are your skills?"
+msgstr ""
+
+#. Id: 19702-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#. Id: 50554-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50525-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech hunter recruit 700
+#. Id: 50253-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50206-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 19702-Dialogue.mod:0 50554-Dialogue.mod:0 50253-Dialogue.mod:0
+msgid "Sorry, I'm not hiring."
+msgstr "Wybacz, nikogo nie potrzebuję."
+

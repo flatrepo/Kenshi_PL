@@ -1,0 +1,579 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15636-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 15636-Dialogue.mod:0
+msgid "No foreigners!"
+msgstr "Żadnych obcych!"
+
+#. Id: 15636-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 15636-Dialogue.mod:1
+msgid "No outlanders allowed"
+msgstr "Obcym wstęp wzbroniony."
+
+#. Id: 15636-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 15636-Dialogue.mod:2
+msgid "No foreigners allowed"
+msgstr "Nie wpuszczamy obcych."
+
+#. Id: 15636-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. Id: 10727-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-45
+#: 15636-Dialogue.mod:3 10727-Dialogue?(10).mod:3
+msgid "You're not welcome here"
+msgstr "Nie jesteś tu mile widziany."
+
+#. Id: 15636-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 15636-Dialogue.mod:4
+msgid "You're not allowed here, barbarian"
+msgstr "Nie wolno ci tu być, barbarzyńco."
+
+#. Id: 15636-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 15636-Dialogue.mod:5
+msgid "You're not allowed here, savage"
+msgstr "Nie możesz tu przebywać, pokrako."
+
+#. Id: 15638-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15636-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15638-Dialogue.mod:0
+msgid "Leave. I won't ask again."
+msgstr "Odejdź, nie będę prosić ponownie."
+
+#. Id: 15638-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15636-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15638-Dialogue.mod:1
+msgid "Get out. Don't make me ask you again."
+msgstr "Wynoś się. Nie każ mi się powtarzać."
+
+#. Id: 15638-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15636-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15638-Dialogue.mod:2
+msgid "Clear out!"
+msgstr "Wynocha!"
+
+#. Id: 15638-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15636-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15638-Dialogue.mod:4
+msgid "Take leave!"
+msgstr "Odejdź!"
+
+#. Id: 42193-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (15638-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42193-Dialogue.mod:1
+msgid "I warned you! Arrest /HIM/!"
+msgstr "Ostrzegałem! Aresztować /HIM/!"
+
+#. Id: 42193-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (15638-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42193-Dialogue.mod:2
+msgid "Then don't leave! Get /HIM/!"
+msgstr "Zatem nie odchodź, brać /HIM/!"
+
+#. Id: 42193-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (15638-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42193-Dialogue.mod:3
+msgid "No? Then rot in jail!"
+msgstr "Nie? Zatem będziesz gnić w więzieniu!"
+
+#. Id: 15635-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. Id: 42840-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 15635-Dialogue.mod:0 42840-Dialogue.mod:0
+msgid "Off limits. Leave here."
+msgstr "Wycieczka się kończy. Odejdź."
+
+#. Id: 15635-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. Id: 42840-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 15635-Dialogue.mod:1 42840-Dialogue.mod:4
+msgid "You're not allowed here, leave at once"
+msgstr "Nie wolno ci tu przebywać, odejdź."
+
+#. Id: 15635-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 15635-Dialogue.mod:2
+msgid "You're not allowed here, clear out"
+msgstr "Nie możesz tu być, wynoś się."
+
+#. Id: 15635-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 15635-Dialogue.mod:3
+msgid "You're not allowed here, leave"
+msgstr "Nie wolno ci tu być, spadaj."
+
+#. Id: 15635-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. Id: 42840-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 15635-Dialogue.mod:4 42840-Dialogue.mod:5
+msgid "You're not allowed here, take exit"
+msgstr "Wypad stąd, tam jest wyjście."
+
+#. Id: 15635-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 15635-Dialogue.mod:5
+msgid "Out of bounds, get out"
+msgstr "Nie przekraczaj granicy, wynocha!"
+
+#. Id: 15635-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 15635-Dialogue.mod:6
+msgid "Out of bounds, clear off"
+msgstr "Koniec spaceru, oddal się."
+
+#. Id: 15635-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 15635-Dialogue.mod:7
+msgid "Out of bounds, leave"
+msgstr "Koniec spaceru, odejdź."
+
+#. Id: 47317-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15635-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 47317-Dialogue.mod:1
+msgid "Leave now."
+msgstr "Wyjdź teraz."
+
+#. Id: 42179-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47317-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42179-Dialogue.mod:0
+msgid "Are you deaf? I said leave, /WORM/!"
+msgstr "Ogłuchłeś? Powiedziałem wyjdź, robaku!"
+
+#. Id: 42179-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (47317-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42179-Dialogue.mod:1
+msgid "I'm talking to you, /PEASANT/! LEAVE!"
+msgstr "Mówię do ciebie, śmieciu! SPADAJ!"
+
+#. Id: 42179-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (47317-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42179-Dialogue.mod:2
+msgid "Got sand in your ears, /WORM/?! GO!"
+msgstr "Masz piasek w uszach czy co? Won!"
+
+#. Id: 42179-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (47317-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42179-Dialogue.mod:3
+msgid "Why are you still here, /PEASANT/?! I said leave!"
+msgstr "Czemu tu nadal jesteś, parobku? Wypad!"
+
+#. Id: 42179-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (47317-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42179-Dialogue.mod:5
+msgid "I won't ask you twice, /WORM/!"
+msgstr "Nie będę się powtarzać, śmieciu!"
+
+#. Id: 42840-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 42840-Dialogue.mod:1
+msgid "You're not allowed in here, what are you doing? Leave."
+msgstr "Nie wolno ci tu być, co ty robisz? Odejdź."
+
+#. Id: 42840-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 42840-Dialogue.mod:2
+msgid "What are you doing? Leave, you're not allowed here."
+msgstr "Co ty wyrabiasz? Nie możesz tu być."
+
+#. Id: 42840-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 42840-Dialogue.mod:3
+msgid "Out of bounds. Get out."
+msgstr "Koniec zwiedzania, wynoś się."
+
+#. Id: 42840-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#: 42840-Dialogue.mod:6
+msgid "Out of bounds. Leave at once."
+msgstr "Wycieczka się skończyła, odejdź w tej chwili."
+
+#. Id: 47318-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42840-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 14706-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12103-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 47318-Dialogue.mod:1 14706-Dialogue.mod:1
+msgid "Leave. Now."
+msgstr "Wyjdź. Teraz."
+
+#. Id: 42182-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47318-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42182-Dialogue.mod:0
+msgid "/GREASY/ woman! Why aren't you leaving?! Do as you're told!"
+msgstr "Głupia kobieto! Czemu nie wychodzisz!? Rób tak jak mówię!"
+
+#. Id: 42182-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (47318-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42182-Dialogue.mod:1
+msgid "Damn you, /TEMPTRESS/! Obey me, leave!"
+msgstr "A niech cię, opętana! Słuchaj się mnie i wyjdź!"
+
+#. Id: 42182-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (47318-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42182-Dialogue.mod:2
+msgid "Damn /TEMPTRESS/! I said leave!"
+msgstr "Cholerne babsko! Wypad stąd!"
+
+#. Id: 42182-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (47318-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42182-Dialogue.mod:3
+msgid "/GREASY/ woman! Why aren't you leaving?! Go!"
+msgstr "Wstrętna babo! Czemu nie idziesz? Wynocha mi stąd!"
+
+#. Id: 42182-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (47318-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42182-Dialogue.mod:4
+msgid "I said get out, woman! Leave!"
+msgstr "Powtarzam, wyjdź, kobieto! Wyjdź!"
+
+#. Id: 42182-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (47318-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42182-Dialogue.mod:6
+msgid "Get out, woman! Or I'll have you thrown in jail!"
+msgstr "Wyjdź stąd kobieto, albo trafisz do pierdla!"
+
+#. Id: 42182-Dialogue.mod
+#. -- Index: 2.7
+#. -- Parent line: 1 (47318-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42182-Dialogue.mod:7
+msgid "Leave! Wretched woman!"
+msgstr "Odejdź! Opętana kobieta!"
+
+#. Id: 42182-Dialogue.mod
+#. -- Index: 2.8
+#. -- Parent line: 1 (47318-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42182-Dialogue.mod:8
+msgid "I said leave, wretched woman! Get out!"
+msgstr "Powtarzam - wyjdź, babo! Opuść to miejsce!"
+
+#. Id: 42180-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47318-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42180-Dialogue.mod:0
+msgid "Why aren't you leaving?! You're trespassing, get out!"
+msgstr "Czemu nie wychodzisz!? Jesteś intruzem, wynoś się!"
+
+#. Id: 42180-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (47318-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42180-Dialogue.mod:1
+msgid "I said leave! No trespassing!"
+msgstr "Mówię, WYJDŹ! Żadnych intruzów!"
+
+#. Id: 42180-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (47318-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42180-Dialogue.mod:2
+msgid "You there! You're not welcome here, don't make me ask you twice!"
+msgstr "Ty tam! Nie jesteś tu mile widziany, nie każ mi się powtarzać!"
+
+#. Id: 42180-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (47318-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42180-Dialogue.mod:3
+msgid "I'm talking to you, /OUTLANDER/! Leave!"
+msgstr "Mówię do ciebie, /OUTLANDER/! Odejdź!"
+
+#. Id: 42180-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (47318-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42180-Dialogue.mod:4
+msgid "Why are you still here, /OUTLANDER/? I won't ask you twice!"
+msgstr "Czemu nadal tu jesteś, /OUTLANDER/!?"
+
+#. Id: 53513-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42180-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 53513-Dialogue.mod:0
+msgid "No more warnings!"
+msgstr "Nie będzie ostrzeżeń!"
+
+#. Id: 53513-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (42180-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 53513-Dialogue.mod:2
+msgid "This is your last warning!"
+msgstr "Ostrzegam cię ostatni raz!"
+
+#. Id: 53513-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (42180-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 53513-Dialogue.mod:3
+msgid "I won't ask you again, intruder!"
+msgstr "Nie będę pytać ponownie, intruzie!"
+
+#. Id: 53513-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (42180-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 53513-Dialogue.mod:4
+msgid "Don't make me tell you again, trespasser!"
+msgstr "Nie każ mi się powtarzać, intruzie!"
+
+#. Id: 53513-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (42180-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 53513-Dialogue.mod:5
+msgid "Ignore me and you'll pay, intruder!"
+msgstr "Ignoruj mnie a oberwiesz, intruzie!"
+
+#. Id: 42184-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53513-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42184-Dialogue.mod:0
+msgid "I warned you...!"
+msgstr "Ostrzegałem!"
+
+#. Id: 42184-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (53513-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42184-Dialogue.mod:1
+msgid "Trespassing won't be tolerated!"
+msgstr "Intruzi nie będą tolerowani!"
+
+#. Id: 42184-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (53513-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42184-Dialogue.mod:2
+msgid "Trespasser! Arrest /HIM/!"
+msgstr "Intruz! Aresztować /HIM/!"
+
+#. Id: 42184-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (53513-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42184-Dialogue.mod:3
+msgid "Don't say I didn't warn you! Punish /HIM/!"
+msgstr "Ostrzegałem cię! Dosięgnie cię kara!"
+
+#. Id: 42184-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (53513-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42184-Dialogue.mod:4
+msgid "Still here? Then you leave me no choice!"
+msgstr "Nadal tu jesteś? Zatem nie pozostawiasz mi wyboru!"
+

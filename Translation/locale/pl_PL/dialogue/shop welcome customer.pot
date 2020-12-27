@@ -1,0 +1,378 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:0
+msgid "Welcome!"
+msgstr ""
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:1
+msgid "Hello!"
+msgstr ""
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:2
+msgid "Welcome! Come and browse!"
+msgstr ""
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:3
+msgid "Welcome customer!"
+msgstr ""
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:4
+msgid "Welcome new customer!"
+msgstr ""
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:5
+msgid "Welcome! Have a browse!"
+msgstr ""
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:6
+msgid "Come in, have a browse!"
+msgstr ""
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:7
+msgid "Take a look around, customer!"
+msgstr ""
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:8
+msgid "/HI/, customer!"
+msgstr ""
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:9
+msgid "Welcome, customer, what can I do for you?"
+msgstr ""
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:10
+msgid "Welcome, take a look around..."
+msgstr ""
+
+#. Id: 3204-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#: 3204-gamedata.base:0
+msgid "Welcome back!"
+msgstr ""
+
+#. Id: 3204-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#: 3204-gamedata.base:1
+msgid "Good to see you again!"
+msgstr ""
+
+#. Id: 3204-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#: 3204-gamedata.base:2
+msgid "My favorite customer!"
+msgstr ""
+
+#. Id: 3295-D-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>12, Tag: -1
+#: 3295-D-dialogue-01.mod:0
+msgid "Welcome, friend."
+msgstr ""
+
+#. Id: 3295-D-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>12, Tag: -1
+#: 3295-D-dialogue-01.mod:1
+msgid "Looking for something?"
+msgstr ""
+
+#. Id: 3295-D-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>12, Tag: -1
+#: 3295-D-dialogue-01.mod:2
+msgid "Come in. Have a browse."
+msgstr ""
+
+#. Id: 3295-D-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>12, Tag: -1
+#: 3295-D-dialogue-01.mod:3
+msgid "Take a look around."
+msgstr ""
+
+#. Id: 3295-D-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>12, Tag: -1
+#: 3295-D-dialogue-01.mod:4
+msgid "Ah, a new buyer. Welcome."
+msgstr ""
+
+#. Id: 3296-D-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. Id: 18216-Recruits Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. Id: 65034-october 17.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (65033-october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. Id: 19261-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. Id: 9522-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 3296-D-dialogue-01.mod:0 18216-Recruits?Dialogue.mod:5 65034-october?17.mod:1 19261-Dialogue.mod:3 9522-Dialogue.mod:0
+msgid "Welcome back."
+msgstr ""
+
+#. Id: 3296-D-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#: 3296-D-dialogue-01.mod:1
+msgid "Good to see you again."
+msgstr ""
+
+#. Id: 3296-D-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#: 3296-D-dialogue-01.mod:2
+msgid "Well, well. My favorite customer!"
+msgstr ""
+
+#. Id: 3296-D-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#: 3296-D-dialogue-01.mod:3
+msgid "Back for more goods?"
+msgstr ""
+
+#. Id: 3296-D-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#: 3296-D-dialogue-01.mod:4
+msgid "Did you forget to buy something?"
+msgstr ""
+
+#. Id: 12596-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12596-gamedata.base:0
+msgid "Back again, thief!"
+msgstr ""
+
+#. Id: 12596-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12596-gamedata.base:1
+msgid "It's that damn thief again!"
+msgstr ""
+
+#. Id: 12596-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12596-gamedata.base:2
+msgid "Damn thief, /GETLOST/!"
+msgstr ""
+
+#. Id: 12596-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 95565-Mourn.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader mourn
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 12613-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 1534133-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Trade unlock
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 95588-__Mourn.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12596-gamedata.base:3 95565-Mourn.mod:1 12613-gamedata.base:1 1534133-__Fixes.mod:0 95588-__Mourn.mod:1
+msgid "Get lost, thief!"
+msgstr ""
+
+#. Id: 12596-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12596-gamedata.base:4
+msgid "You're not welcome here, thief!"
+msgstr ""
+
+#. Id: 12596-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12596-gamedata.base:5
+msgid "Think I'm stupid? Get out, thief!"
+msgstr ""
+
+#. Id: 12596-gamedata.base
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12596-gamedata.base:6
+msgid "You, thief! Get out!"
+msgstr ""
+
+#. Id: 12596-gamedata.base
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12596-gamedata.base:7
+msgid "I never forget a thief! Leave!"
+msgstr ""
+

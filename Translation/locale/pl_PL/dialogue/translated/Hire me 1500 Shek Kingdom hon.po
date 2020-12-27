@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 19523-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 1500 Shek Kingdom hon
+#: 19523-Dialogue.mod:0
+msgid "/FLATSKIN/. How about earning yourself the loyalty of a Shek warrior?"
+msgstr ""
+
+#. Id: 19524-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19523-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 1500 Shek Kingdom hon
+#. Id: 15059-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15057-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#. Id: 11635-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11281-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#. Id: 16998-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bust out of jail bandit
+#. Id: 42773-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42549-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest sees female, 1st time
+#. Id: 42553-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (42550-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest sees female, 1st time
+#. Id: 15359-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (15158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 15168-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (15163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 9483-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (9482-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. Id: 45034-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45032-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#. Id: 45047-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45046-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#. Id: 45064-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45063-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 19524-Dialogue.mod:0 15059-Dialogue.mod:2 11635-Dialogue?(10).mod:0 16998-Dialogue.mod:0 42773-Dialogue.mod:0 42553-Dialogue.mod:0 15359-Dialogue.mod:1 15168-Dialogue.mod:3 9483-Dialogue.mod:0 45034-Dialogue.mod:0 45047-Dialogue.mod:0 45064-Dialogue.mod:0
+msgid "Go on..."
+msgstr "Mów dalej..."
+
+#. Id: 19527-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 1500 Shek Kingdom hon
+#: 19527-Dialogue.mod:0
+msgid "I need to be freed, 3500 Cats to free me from my lord. Let me fight for you, outsider, as a mighty warrior once again. Peasant life is killing my soul, I need battle."
+msgstr ""
+
+#. Id: 19528-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19527-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 1500 Shek Kingdom hon
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3500, Tag: -1
+#: 19528-Dialogue.mod:0
+msgid "Sure, sounds like a fair deal (c.3500)"
+msgstr ""
+
+#. Id: 19535-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19528-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 1500 Shek Kingdom hon
+#: 19535-Dialogue.mod:0
+msgid "You won't regret it, outsider"
+msgstr ""
+
+#. Id: 19533-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19527-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 1500 Shek Kingdom hon
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3500, Tag: -1
+#: 19533-Dialogue.mod:0
+msgid "You'll fight again, come with /MEUS/ (c.3500)"
+msgstr ""
+
+#. Id: 19525-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19523-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 1500 Shek Kingdom hon
+#. Id: 18844-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9135-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 19525-Dialogue.mod:0 18844-Dialogue.mod:0
+msgid "What's the catch?"
+msgstr ""
+
+#. Id: 19526-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19523-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 1500 Shek Kingdom hon
+#: 19526-Dialogue.mod:0
+msgid "Nope. Not interested"
+msgstr ""
+

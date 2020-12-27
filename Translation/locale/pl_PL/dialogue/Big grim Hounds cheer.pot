@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 57292-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim Hounds cheer
+#: 57292-Dialogue.mod:0
+msgid "Arrroooo!"
+msgstr ""
+
+#. Id: 57292-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim Hounds cheer
+#. Id: 56471-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (56479-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Hound revenge kidnapping Grim 
+#: 57292-Dialogue.mod:1 56471-Dialogue.mod:1
+msgid "Awooooo!"
+msgstr ""
+

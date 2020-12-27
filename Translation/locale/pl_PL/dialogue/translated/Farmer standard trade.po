@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 58420-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#: 58420-Dialogue.mod:0
+msgid "[He stops and looks at you, mid whistle]... A good day for ploughin', yes it is! Lookin' to trade, /OUTLANDER/?"
+msgstr "[Zatrzymuje się i przygląda, gwiżdżąc] Świetny dzień na zbiory, o tak! Chcesz handlować, /OUTLANDER/?"
+
+#. Id: 58420-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#: 58420-Dialogue.mod:1
+msgid "Don't get much business out 'ere. Welcome, /OUTLANDER/! What ya be needin'?"
+msgstr "Nie mamy tu zbyt wiele interesów. Witaj, /OUTLANDER/! Czego potrzebujesz?"
+
+#. Id: 58420-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#: 58420-Dialogue.mod:2
+msgid "Ah /HI/, /OUTLANDER/! I got meats, grains, veg an' I got fine strong bulls fit for haulin'! What do ya need?"
+msgstr "Ach, /HI/, /OUTLANDER/! Mam mięso, warzywa, ziarna i silne byki do roboty! Czego potrzebujesz?"
+
+#. Id: 58420-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#: 58420-Dialogue.mod:3
+msgid "[He spits a sad looking piece of straw from his teeth]... Well, I'll be damned! A new customer! Welcome, /OUTLANDER/, take a look at my stock..."
+msgstr "[Wypluwa smutnie wyglądającą słomę spomiędzy zębów] A niech mnie! Nowy klient! Witaj, /OUTLANDER/, rozejrzyj się po moim przybytku..."
+
+#. Id: 58420-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#: 58420-Dialogue.mod:4
+msgid "[He flashes a toothless, gummy smile]... Why, /HI/ to you, /OUTLANDER/! Here to trade or here to rob me? [He snorts and smacks his thighs]"
+msgstr "[Pokazuje uroczy, bezzębny uśmiech] Witam cię, /OUTLANDER/! Chcesz handlować czy mnie okraść? [Smarcze i uderza się w uda]"
+
+#. Id: 58420-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#: 58420-Dialogue.mod:5
+msgid "What ya be needin', /OUTLANDER/? I got the finest bulls and the juiciest dried meats this side of the desert, take a look..."
+msgstr "Czego ci potrzeba, /OUTLANDER/? Mam tu najlepsze byczki i najtłustsze mięsa po tej stronie pustyni, zobacz..."
+
+#. Id: 58420-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#: 58420-Dialogue.mod:6
+msgid "/HI/, /OUTLANDER/. I got ample supplies, livestock, waters... Take a look."
+msgstr "/HI/, /OUTLANDER/. Mam wszelkie zapasy, żywność, wodę... Rozejrzyj się."
+
+#. Id: 58420-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#: 58420-Dialogue.mod:7
+msgid "Guess you didn't come all the way out here for a chat, did ya, /OUTLANDER/? Lookin' to buy some supplies? ... [He mutters] Gosh darn I'm so lonely..."
+msgstr "Sądzę, że nie przybywasz tu po to, by plotkować, co, /OUTLANDER/? Chcesz uzupełnić zapasy?... [Mruczy] Kurwa, ale mi tu smutno..."
+
+#. Id: 58426-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58420-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Farmer standard trade
+#: 58426-Dialogue.mod:0
+msgid "Show me your supplies."
+msgstr "Pokaż mi swoje zapasy."
+
+#. Id: 58427-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58420-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Farmer standard trade
+#: 58427-Dialogue.mod:0
+msgid "Show me your animals."
+msgstr "Pokaż mi swoje zwierzęta."
+
+#. Id: 58429-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#: 58429-Dialogue.mod:0
+msgid "*Cough* Lousy skinflint..."
+msgstr "*Kaszle* Głupi śmieć..."
+
+#. Id: 58429-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (58428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#: 58429-Dialogue.mod:1
+msgid "*Ahem* Good for nothin' /MISER/..."
+msgstr "*Chrząka* To nie zawracaj mi głowy, dupku..."
+
+#. Id: 58429-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (58428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#: 58429-Dialogue.mod:2
+msgid "Come again!"
+msgstr "Zajrzyj tu kiedyś!"
+
+#. Id: 58421-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<24, Tag: -1
+#: 58421-Dialogue.mod:0
+msgid "What ya be needin'. /OUTLANDER/?"
+msgstr "Czego ci potrzeba, /OUTLANDER/?"
+
+#. Id: 58421-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<24, Tag: -1
+#: 58421-Dialogue.mod:2
+msgid "Aye, back for more, /OUTLANDER/?"
+msgstr "Ej, wracasz po więcej, /OUTLANDER/?"
+
+#. Id: 58421-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<24, Tag: -1
+#: 58421-Dialogue.mod:3
+msgid "Well, if my best customer ain't back to trade again already!"
+msgstr "Czy mnie oczy nie mylą! Najlepszy klient wraca!"
+
+#. Id: 58440-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 58440-Dialogue.mod:0
+msgid "Ah, yer all skin n' bones, /OUTLANDER/!"
+msgstr "Z ciebie sama skóra i kości, /OUTLANDER/!"
+
+#. Id: 58440-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 58440-Dialogue.mod:1
+msgid "[He grimaces at the sight of you]... Seen better day's, ain'tcha, /OUTLANDER/?"
+msgstr "[Uśmiecha się na twój widok] Bywało lepiej, co, /OUTLANDER/?"
+
+#. Id: 58441-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58440-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Farmer standard trade
+#: 58441-Dialogue.mod:0
+msgid "Can't spare much but... here. Eat up, eh, beggar?"
+msgstr "Nie mogę zbyt wiele dać, ale... masz. Najedz się, eee, żebraku?"
+

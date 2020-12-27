@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 97198-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (97099-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: agnu recruit
+#: 97198-rebirth.mod:0
+msgid "Woah there, calm down"
+msgstr ""
+
+#. Id: 97214-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97198-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: agnu recruit
+#: 97214-rebirth.mod:0
+msgid "/AGNU/! [He flails around in his cage, obviously furious]"
+msgstr ""
+
+#. Id: 97215-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (97214-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: agnu recruit
+#: 97215-rebirth.mod:0
+msgid "Who are you? How did you end up in this cage?"
+msgstr ""
+
+#. Id: 97217-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97216-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: agnu recruit
+#: 97217-rebirth.mod:0
+msgid "Clearly you've had your brain fried.  Poor guy."
+msgstr ""
+
+#. Id: 97218-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (97217-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: agnu recruit
+#: 97218-rebirth.mod:0
+msgid "[He stares at you. Is he glaring? Spacing out? Impossible to tell with a skeleton]"
+msgstr ""
+
+#. Id: 97219-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (97218-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: agnu recruit
+#: 97219-rebirth.mod:0
+msgid "Don't worry buddy, I'll get you out of there!"
+msgstr ""
+
+#. Id: 97220-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (97218-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: agnu recruit
+#: 97220-rebirth.mod:0
+msgid "I don't think it's safe letting you out, you'll probably just attack me."
+msgstr ""
+
+#. Id: 97213-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (97099-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: agnu recruit
+#: 97213-rebirth.mod:0
+msgid "What the hell is wrong with you?"
+msgstr ""
+
+#. Id: 97226-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97225-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: agnu recruit
+#: 97226-rebirth.mod:0
+msgid "[solemn nodding] Beep."
+msgstr ""
+
+#. Id: 97227-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (97226-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: agnu recruit
+#: 97227-rebirth.mod:0
+msgid "Rrgh."
+msgstr ""
+

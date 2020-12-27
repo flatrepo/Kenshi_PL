@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51085-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Moll spots generic assault
+#. Id: 16185-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 51085-Dialogue.mod:0 16185-Dialogue.mod:4
+msgid "This ends NOW!"
+msgstr ""
+
+#. Id: 51085-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Moll spots generic assault
+#: 51085-Dialogue.mod:1
+msgid "Now you've got yourself in one hell of a mess..."
+msgstr ""
+
+#. Id: 51085-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Moll spots generic assault
+#: 51085-Dialogue.mod:2
+msgid "I can't let you out of this so easy..."
+msgstr ""
+

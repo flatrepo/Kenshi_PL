@@ -1,0 +1,454 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1848-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (1828-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#: 1848-gamedata.base:0
+msgid "I can't give you any leads right now.  Keep a look out for the big-time criminals like bandit leaders.  If you can take one down, bring 'em back here and you'll be rewarded."
+msgstr "Nie mogę dać ci teraz żadnych informacji. Szukaj jakichś sporych przestępców, jak przywódców bandytów. Jeśli dasz radę takiego złapać, sprowadź go tu, a otrzymasz nagrodę."
+
+#. Id: 1834-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (1829-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#: 1834-gamedata.base:0
+msgid "If you catch any bounties, bring em to me."
+msgstr "Jeśli złapiesz jakichś poszukiwanych, sprowadź ich do mnie."
+
+#. Id: 12824-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (12823-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#: 12824-gamedata.base:0
+msgid "Sure take a look"
+msgstr "Jasne, zobacz."
+
+#. Id: 12824-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (12823-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#: 12824-gamedata.base:1
+msgid "Heh heh, yeah"
+msgstr "Hehe, oczywiście."
+
+#. Id: 12824-gamedata.base
+#. -- Index: 2.2
+#. -- Parent line: 1 (12823-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#: 12824-gamedata.base:2
+msgid "Have a look at what I've got"
+msgstr "Jasne, sprawdź co mam."
+
+#. Id: 1835-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#: 1835-gamedata.base:0
+msgid "Looks like you've caught a bounty.  Want a reward I suppose?"
+msgstr "Chyba udało ci się złapać poszukiwanego. Strzelam, że chcesz nagrodę?"
+
+#. Id: 1844-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=1, Tag: -1
+#: 1844-gamedata.base:0
+msgid "Looks like you've caught a bounty.  Is he dead?  You only get paid half for that."
+msgstr "Udało ci się złapać poszukiwanego. Czy on nie żyje? W takim razie dostaniesz połowę nagrody."
+
+#. Id: 1846-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1844-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#: 1846-gamedata.base:0
+msgid "Whatever.  Give me my money."
+msgstr "Nieważne, dawaj kasę."
+
+#. Id: 1841-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1844-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#. Id: 62199-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62190-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#. Id: 62223-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62192-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#: 1841-gamedata.base:0 62199-Dialogue.mod:0 62223-Dialogue.mod:0
+msgid "No, I was just showing him off."
+msgstr "Nie, tylko się nim chwalę."
+
+#. Id: 59056-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#. Id: 59113-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=1, Tag: -1
+#: 59056-Dialogue.mod:0 59113-Dialogue.mod:0
+msgid "Looks like you've caught a- Is that Tinfist?... No, can't be... Bring him closer to me..."
+msgstr "Udało ci się złapać poszuki-... Czy to jest Blachoręki...? Nie, niemożliwe... Pokaż mi go..."
+
+#. Id: 59057-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. Id: 62200-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62198-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#: 59057-Dialogue.mod:0 62200-Dialogue.mod:0
+msgid "Hoho! This'll put the boss in a good mood! And you, you'll go down a hero for this!"
+msgstr "Hoho! To poprawi szefowi humor! A ty będziesz bohaterem!"
+
+#. Id: 59058-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59057-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#: 59058-Dialogue.mod:0
+msgid "Whatever. Give me my money."
+msgstr "Nieważne, daj mi kasę."
+
+#. Id: 59064-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59058-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. Id: 59080-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59078-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. Id: 62201-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62200-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#: 59064-Dialogue.mod:0 59080-Dialogue.mod:0 62201-Dialogue.mod:0
+msgid "Good job, /YOURNAME/."
+msgstr "Świetna robota, /YOURNAME/."
+
+#. Id: 59059-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59057-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#: 59059-Dialogue.mod:0
+msgid "All in a day's work."
+msgstr "Dzień jak co dzień."
+
+#. Id: 59067-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59057-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#. Id: 59079-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59076-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#. Id: 62233-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62196-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#: 59067-Dialogue.mod:0 59079-Dialogue.mod:0 62233-Dialogue.mod:0
+msgid "No, I was just showing them off."
+msgstr "Nie, tylko się nim chwalę."
+
+#. Id: 59068-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59067-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#. Id: 59081-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59079-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#: 59068-Dialogue.mod:0 59081-Dialogue.mod:0
+msgid "... Harbouring a wanted criminal is a serious offence. I'll give you one more chance, hunter. Hand the bounty over."
+msgstr "... Chronienie poszukiwanego przestępcy jest karalne. Dam ci jeszcze jedną szansę, łowco. Daj mi go."
+
+#. Id: 59069-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59068-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#: 59069-Dialogue.mod:0
+msgid "Not going to happen."
+msgstr "Nie ma opcji."
+
+#. Id: 59074-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#. Id: 59114-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=1, Tag: -1
+#: 59074-Dialogue.mod:0 59114-Dialogue.mod:0
+msgid "Well, well, well! If it isn't Big Bo... Not so big after all, is she? "
+msgstr "Niech mnie kule biją, czy to nie jest Wielka Bo... Nie taka wielka, co?"
+
+#. Id: 59076-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59074-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#: 59076-Dialogue.mod:0
+msgid "You'll want your reward I suppose?"
+msgstr "Strzelam, że chcesz nagrodę?"
+
+#. Id: 59078-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59076-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#: 59078-Dialogue.mod:0
+msgid "Take them."
+msgstr "Bierz ją."
+
+#. Id: 59075-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#. Id: 59115-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=1, Tag: -1
+#: 59075-Dialogue.mod:0 59115-Dialogue.mod:0
+msgid "Grey... It's about time. This one's been outrunning the law long enough. That's quite a catch you got there, hunter."
+msgstr "Szary... Najwyższy czas. Ten jeden unikał prawa wystarczająco długo. Udało ci się złapać niezły okaz, łowco."
+
+#. Id: 59077-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#. Id: 59116-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=1, Tag: -1
+#: 59077-Dialogue.mod:0 59116-Dialogue.mod:0
+msgid "So you caught Jaegar, huh? This ought to put Tengu in a good mood for the week."
+msgstr "Jaegar złapany, co? To wprawi Tengu w świetny nastrój."
+
+#. Id: 62190-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#: 62190-Dialogue.mod:0
+msgid "The lord of the Okranites?! You caught him?!"
+msgstr "Pan Okranitów? W twoich rękach!?"
+
+#. Id: 62213-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62199-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#: 62213-Dialogue.mod:0
+msgid "... You haul the leader himself of the Holy Nation all the way into United Cities headquarters, and you expect us to let you walk out with him alive? Hand him over."
+msgstr "Wprowadzasz samego przywódcę Świętego Narodu do głównej bazy Zjednoczonych Miast, i spodziewasz się że pozwolimy ci tak po prostu z nim wyjść? Oddawaj go."
+
+#. Id: 62191-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=0, Tag: -1
+#: 62191-Dialogue.mod:0
+msgid "The lord of the Okranites?! You killed him?!"
+msgstr "Władca Okranitów? Zabiłeś go!?"
+
+#. Id: 62192-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#. Id: 62193-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=0, Tag: -1
+#. Id: 62194-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#. Id: 62195-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=0, Tag: -1
+#: 62192-Dialogue.mod:0 62193-Dialogue.mod:0 62194-Dialogue.mod:0 62195-Dialogue.mod:0
+msgid "That's the high inquisitor of the Okranites... you caught him?"
+msgstr "Najwyższy Inkwizytor Okranitów... W twoich rękach?"
+
+#. Id: 62228-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62223-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#: 62228-Dialogue.mod:0
+msgid "You drag a high inquisitor all the way into United Cities headquarters, and then expect us to let you walk away with him alive? Hand him over."
+msgstr "Ciągniesz inkwizytora całą drogę aż do głównej bazy Zjednoczonych Miast i myślisz, że cię z nim po prostu wypuścimy? Oddawaj go."
+
+#. Id: 62196-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#. Id: 62197-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=0, Tag: -1
+#: 62196-Dialogue.mod:0 62197-Dialogue.mod:0
+msgid "That's-!... Never expected to see the Queen of the Shek taken down so easy..."
+msgstr "To-...! Nigdy nie spodziewałem się królowej Sheków w tym miejscu..."
+
+#. Id: 62235-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62233-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#: 62235-Dialogue.mod:0
+msgid "You know I can't let you walk out of here with her alive... Hand her over."
+msgstr "Wiesz, że nie puszczę cię z nią... Dawaj."
+
+#. Id: 1534070-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. Id: 1534071-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#: 1534070-__Fixes.mod:0 1534071-__Fixes.mod:0
+msgid "You killed the King Gurgler!"
+msgstr "Zabiłeś Króla Gurglerów!"
+
+#. Id: 1534072-__Fixes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534070-__Fixes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#. Id: 1534075-__Fixes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534071-__Fixes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#: 1534072-__Fixes.mod:0 1534075-__Fixes.mod:0
+msgid "Yep. Can I have my reward?"
+msgstr "No. Mogę nagrodę?"
+
+#. Id: 1534080-__Fixes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534070-__Fixes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#. Id: 1534088-__Fixes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534071-__Fixes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#: 1534080-__Fixes.mod:0 1534088-__Fixes.mod:0
+msgid "Damn straight I did."
+msgstr "Kurwa, oczywiście że tak."
+
+#. Id: 1534082-__Fixes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534080-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#: 1534082-__Fixes.mod:0
+msgid "Well, aren't you something else... Finally that thing's been dealt with. Good work, /YOURNAME/."
+msgstr "Gdzieżby inaczej... Wreszcie historia zakończyła się. Świetna robota, /YOURNAME/."
+
+#. Id: 1534085-__Fixes.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534082-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#: 1534085-__Fixes.mod:0
+msgid "A trophy collector will pay well for that head. You should be able to sell it at a good price."
+msgstr "Kolekcjoner zapłaci sporo za tę głowę. Wyciągniesz z niej niezłą sumkę."
+
+#. Id: 1534086-__Fixes.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534085-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#: 1534086-__Fixes.mod:0
+msgid "... Ugh, that thing stinks like rotten fish, now get it out of here already."
+msgstr "... Uch, to śmierci jak popsuta ryba, zabieraj ją stąd."
+
+#. Id: 1534091-__Fixes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534075-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#: 1534091-__Fixes.mod:0
+msgid "No, not from me... job well done, /YOURNAME/ but this is a police station, not an animal house. What were you thinking bringing a wild monster like that in here?!"
+msgstr "Nie ode mnie... To dobrze wykonana robota, /YOURNAME/, ale to jest komenda, nie zwierzyniec. Nie trzymamy tu takich... rzeczy!"
+

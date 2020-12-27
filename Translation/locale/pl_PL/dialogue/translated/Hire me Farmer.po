@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 53328-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Robotnik Roju
+#: 53328-Dialogue.mod:0
+msgid "Need a farmer, /OUTLANDER/? Growing crops runs naturally in the blood of a hive worker. I only charge 4000 Cats."
+msgstr "Potrzebujesz farmera, /OUTLANDER/? Uprawa roślin to naturalne zajęcie takiego robala jak ja. Chcę tylko 4000 catunów."
+
+#. Id: 53328-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Robotnik Roju
+#: 53328-Dialogue.mod:1
+msgid "My place isn't in a drunken bar, I belong as part of a colony, outside on the farms. Are you looking to /TEAMUP/, /OUTLANDER/? Only 4000 Cats."
+msgstr "Moje miejsce to nie bar pełen pijaczyn. Chcę być częścią kolonii, gdzieś w polu. Nie chcesz połączyć sił, /OUTLANDER/? Chcę jedynie 4000 catunów."
+
+#. Id: 53328-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Robotnik Roju
+#: 53328-Dialogue.mod:2
+msgid "Natural born farmer right here. I'll charge you a discount if you're looking to /TEAMUP/, /OUTLANDER/. 4000 Cats to be a part of your colony."
+msgstr "Jestem urodzonym rolnikiem. Mogę dać ci zniżkę, jeśli weźmiesz mnie do swojej kolonii, /OUTLANDER. Tylko 4000 catunów za współracę."
+
+#. Id: 53328-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Robotnik Roju
+#: 53328-Dialogue.mod:3
+msgid "Let me join your colony, /OUTLANDER/? I'll charge you a cheap rate, 4000 Cats. Hivers make the best farmers, you know."
+msgstr "Pozwól mi dołączyć do swojej kolonii, /OUTLANDER/! Nie chcę wiele, tylko 4000 catunów. Rojownicy są najlepszymi rolnikami na kontynencie."
+
+#. Id: 53328-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Robotnik Roju
+#: 53328-Dialogue.mod:4
+msgid "You'll find no better farmer than a hive farmer. I charge 4000 Cats if you're hiring, /OUTLANDER/."
+msgstr "Nigdzie nie znajdziesz lepszego rolnika niż rolnika z roju. Chcę tylko 4000 catunów za zatrudnienie, /OUTLANDER/."
+
+#. Id: 53328-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Robotnik Roju
+#: 53328-Dialogue.mod:5
+msgid "Happen to need a farmer? All I ask for in return is simple companionship... and a 4000 Cat recruitment fee."
+msgstr "Nie potrzebujesz czasem kogoś do pomocy przy roli? Jedyne, co chcę w zamian, to zwyczajne towarzystwo... I jednorazową opłatę 4000 catunów."
+
+#. Id: 53328-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Robotnik Roju
+#: 53328-Dialogue.mod:6
+msgid "I don't belong in this town, I belong outside on a farm... as part of a community. Are you looking for a farmer by any chance, stranger? I'll give you a discount, 4000 Cats if you take me with you."
+msgstr "Nie należę do tego miasta, należę do tamtego, rolniczego świata... jako część społeczności. Nie potrzebujesz może farmera, obcy? Dam zniżkę, 4000 catunów."
+
+#. Id: 53328-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Robotnik Roju
+#: 53328-Dialogue.mod:7
+msgid "Working the farms as a collective was all I knew back in the hive. But city bars? I'm a fish out of water... So, you happen to be recruiting? I charge 4000 Cats."
+msgstr "Kiedyś jedyne, co robiłem, to uprawa roli w kolektywie, w roju. Ale miejskie bary? Jestem jak ryba bez wody... Nie szukasz może towarzysza? Liczę sobie 4000 catunów."
+
+#. Id: 53338-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53328-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Farmer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
+#. Id: 53334-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53330-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Farmer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 50529-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50528-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech Hunter Recruit 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 53338-Dialogue.mod:0 53334-Dialogue.mod:0 50529-Dialogue.mod:0
+msgid "Sure, you're hired."
+msgstr "Jasne, biorę cię."
+
+#. Id: 53348-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53338-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. Id: 6968-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6966-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 53348-Dialogue.mod:0 6968-Dialogue.mod:0
+msgid "I'll follow"
+msgstr "Będę tuż za tobą!"
+
+#. Id: 53339-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53328-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Farmer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<4000, Tag: -1
+#: 53339-Dialogue.mod:0
+msgid "Sorry, I don't have enough."
+msgstr "Wybacz, nie mam tyle pieniędzy."
+
+#. Id: 53329-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Borealczyk or Meridiańczyk or Shek
+#. -- Condition: In town(s) of faction(s): Zjednoczone Miasta
+#: 53329-Dialogue.mod:0
+msgid "Here to recruit?... Well, if you need a farmer look no further. I can turn a barren wasteland into a blooming oasis. Even managed twenty farms before they went to hell back in the Red Rebellion. I charge 6000 Cats if you're interested."
+msgstr "Przychodzisz rekrutować? Jeśli potrzebujesz rolnika, nie musisz dłużej szukać. Zamienię najgorszą pustynię w pełną roślinności oazę. Przed Czerwoną Rebelią zarządzałem dwudziestoma farmami. Liczę 6000 catunów, jeśli cię to interesuje."
+
+#. Id: 53329-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Borealczyk or Meridiańczyk or Shek
+#. -- Condition: In town(s) of faction(s): Zjednoczone Miasta
+#: 53329-Dialogue.mod:1
+msgid "Farmer looking for greener pastures! You hiring, /OUTLANDER/? A farmer can't earn a living in Empire territory, the Red Rebellion put an end to that. I gave up everything I own ready for a fresh start. 6000 Cats and I'll follow."
+msgstr "Rolnik szuka miejsca do pracy! Szukasz robotników, /OUTLANDER/? Rolnik nie zarobi na życie na terytorium Imperium, wszystko dzięki Czerwonej Rebelii. Oddałem już wszystko, by spróbować nowego życia. 6000 catunów i podążę za tobą."
+
+#. Id: 53330-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Meridiańczyk or Shek or Borealczyk
+#: 53330-Dialogue.mod:0
+msgid "[They look you up and down] Not one of the locals, are you? Looking to /TEAMUP/? I charge 6000 Cats."
+msgstr "[Taksuje cię wzrokiem z dołu do góry] Nie jesteś stąd, co? Szukasz towarzysza? Liczę sobie 6000 catunów."
+
+#. Id: 53330-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Meridiańczyk or Shek or Borealczyk
+#: 53330-Dialogue.mod:1
+msgid "Not seen you around before... You here for recruits? If so, I'm looking to /TEAMUP/ for 6000 Cats."
+msgstr "Nie widziałem ciebie tu wcześniej... Szukasz rekrutów? Jeśli tak, z chęcią dołączę za 6000 catunów."
+
+#. Id: 53330-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Meridiańczyk or Shek or Borealczyk
+#: 53330-Dialogue.mod:2
+msgid "I'm looking to /TEAMUP/ if you're looking to hire, /OUTLANDER/. I charge 6000 Cats."
+msgstr "Szukam towarzyszy, jeśli zatrudniasz ludzi, /OUTLANDER/. Chcę 6000 catunów."
+
+#. Id: 53330-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Meridiańczyk or Shek or Borealczyk
+#: 53330-Dialogue.mod:3
+msgid "Don't look like one of the usual bar drunks... guess you're a traveller, huh? Looking to /TEAMUP/? 6000 Cats and I'll follow you."
+msgstr "Nie wyglądasz jak te zwyczajowe pijaczyny... Jesteś podróżnikiem, co? Potrzebujesz towarzystwa? 6000 catunów i idę z tobą."
+
+#. Id: 53331-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53330-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Farmer
+#. Id: 19392-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19674-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#. Id: 15073-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15061-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#. Id: 18106-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1739-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#. Id: 15042-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15035-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#. Id: 19230-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (19216-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire Me 1000 Holy Nation Female
+#: 53331-Dialogue.mod:0 19392-Dialogue.mod:0 15073-Dialogue.mod:0 18106-Recruits?Dialogue.mod:0 15042-Dialogue.mod:0 19230-Dialogue.mod:1
+msgid "Got any skills?"
+msgstr "Potrafisz cokolwiek?"
+
+#. Id: 53332-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53331-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53332-Dialogue.mod:0
+msgid "Well, not the toughest of mercs but I know a thing or two about hydroponics and riceweed care if you need a farmer."
+msgstr "Cóż, nie jestem najsilniejszym najemnikiem, ale wiem parę rzeczy o hydroponice i hodowli ryżu, jeśli potrzebujesz rolnika."
+
+#. Id: 53332-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (53331-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53332-Dialogue.mod:1
+msgid "Well, I'm not much of a people person but I sure know how to make a riceweed plant happy if you're looking for a farmer..."
+msgstr "Więc... Nie jestem typowym zbirem, ale wiem jak wyhodować szczęśliwy ryż, jeżeli szuaksz rolnika."
+
+#. Id: 53332-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (53331-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53332-Dialogue.mod:2
+msgid "I grow things, I'm a farmer, it's what I do. I don't like violence, don't like people much either but I'll do whatever you need of me."
+msgstr "Uprawiam rośliny, jestem rolnikiem, robię to przez całe życie. Nie przepadam za przemocą, nie lubię też ludzi, ale zrobię cokolwiek, o co mnie poprosisz."
+
+#. Id: 53332-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (53331-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53332-Dialogue.mod:3
+msgid "Farming's my specialty, born and raised on the greenfruit fields... but I'll do my best at whatever you throw my way, you can rely on me."
+msgstr "Rolnictwo to moja specjalność, urodziłem się i dorastałem na hodowaniu warzyw... Ale gdziekolwiek mnie przydzielisz będę się starać, możesz na mnie polegać."
+
+#. Id: 53332-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (53331-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53332-Dialogue.mod:4
+msgid "I'm a farmer, grew up on a farm as a kid. But I'll handle anything else you need of me."
+msgstr "Jestem rolnikiem, dorastałem na farmie. Ale zrobię wszystko, o co mnie poprosisz."
+
+#. Id: 53332-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (53331-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53332-Dialogue.mod:5
+msgid "Not so much in the way of combat if you're looking for muscle. Know a thing or two about farming though."
+msgstr "Jeśli pytasz o dodatkowy miecz to nie potrafię się bić. Ale za to wiem trochę o rolnictwie."
+
+#. Id: 53346-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53334-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53346-Dialogue.mod:0
+msgid "Let's get to work"
+msgstr "Bierzmy się do roboty."
+
+#. Id: 53344-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53330-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Farmer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 53344-Dialogue.mod:0
+msgid "I don't have enough right now."
+msgstr "Nie mam tyle kasy."
+
+#. Id: 53335-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53330-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Farmer
+#. Id: 47636-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47632-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skeleton for hire 700
+#. Id: 50860-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50827-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#. Id: 65911-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65927-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crab town recruit
+#. Id: 52663-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52661-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamper cook
+#. Id: 52577-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52574-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamper cook
+#. Id: 50527-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50522-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech Hunter Recruit 2500
+#. Id: 48646-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48636-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamp Skeleton for hire 1 2500
+#. Id: 52669-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52561-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire Cook
+#: 53335-Dialogue.mod:0 47636-Dialogue.mod:1 50860-Dialogue.mod:0 65911-Dialogue.mod:0 52663-Dialogue.mod:0 52577-Dialogue.mod:0 50527-Dialogue.mod:0 48646-Dialogue.mod:0 52669-Dialogue.mod:0
+msgid "Not interested, sorry."
+msgstr "Nie interesuje mnie to, przykro mi."
+
+#. Id: 53336-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53336-Dialogue.mod:0
+msgid "Never been much of a city person, more of an outdoors type. I grew up on the farms, at one with nature you could say... So here I am selling my farming skills for a ticket out of here. You interested in hiring? I charge 6000 Cats."
+msgstr "Nigdy nie byłem mieszczuchem, lepiej czuję się na zewnątrz. Dorastałem na farmie, wśród przyrody, można powiedzieć... Jestem więc tutaj i sprzedaję moją rolniczą wiedzę, by w końcu stąd zwiać. Szukasz pracownika? Chcę 6000 catunów."
+
+#. Id: 53336-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53336-Dialogue.mod:1
+msgid "Damn I miss working the farm... Been stuck in this town far too long. Say, you looking to hire there, /OUTLANDER/? I charge 6000 Cats."
+msgstr "Cholera, tęsknię za pracą na farmie... Siedzę tu o wiele za długo. Chyba szukasz rąk do pracy, nie, /OUTLANDER/? Chcę 6000 catunów."
+
+#. Id: 53336-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53336-Dialogue.mod:2
+msgid "Hoes over swords I always say. Never been one for violence. Need a farmer, stranger?"
+msgstr "Motyki nad miecze, jak to zwykle mówię. Nigdy nie lubiłem przemocy. Nie potrzebujesz rolnika, obcy?"
+
+#. Id: 53336-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53336-Dialogue.mod:3
+msgid "Guess you're here for recruits, am I right? I'm looking for work if so. Main specialty's farming. My fee's 6000 Cats, interested?"
+msgstr "Chyba szukasz rekrutów, dobrze strzelam? Szukam pracy, zajmuję się rolnictwem. Chcę 6000 catunów, stoi?"
+
+#. Id: 53337-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 53337-Dialogue.mod:0
+msgid "6000 Cats, that's my price. Be needing a farmer on your squad by any chance, /OUTLANDER/?... Gosh I miss those days on the farm... my pet goat Frieda... the smell of damp riceweed in the morning... the relentless bandit raids..."
+msgstr "6000 catunów, to moja cena. Może potrzebujesz rolnika do swojej ekipy, co, /OUTLANDER/? Cholera, tęsknię za tymi dniami na farmie... Moja koza Frieda... Zapach mokrego ryżu o poranku... Brutalne ataki bandytów..."
+
+#. Id: 53352-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<18, Tag: -1
+#: 53352-Dialogue.mod:0
+msgid "Back again? Still for hire if you need me, 6000 Cats."
+msgstr "Znów tutaj? Nadal szukam pracy, 6000 catunów."
+
+#. Id: 53353-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<18, Tag: -1
+#. -- Condition: My Race(s): Robotnik Roju
+#: 53353-Dialogue.mod:0
+msgid "Back again? I'm still for hire if you need me, 4000 Cats."
+msgstr "Znów tutaj? Nadal szukam pracy. Jeśli chcesz mnie zatrudnić, biorę 4000 catunów."
+

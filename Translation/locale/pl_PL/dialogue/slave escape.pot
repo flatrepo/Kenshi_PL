@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 5252-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape
+#: 5252-gamedata.base:1
+msgid "Hey! Slave!"
+msgstr ""
+
+#. Id: 5252-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape
+#: 5252-gamedata.base:3
+msgid "Get back here, slave!"
+msgstr ""
+
+#. Id: 5252-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape
+#: 5252-gamedata.base:5
+msgid "Oi!"
+msgstr ""
+
+#. Id: 5252-gamedata.base
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape
+#. Id: 13820-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law enforcement spots prisoner escaping
+#: 5252-gamedata.base:7 13820-Escapes.mod:2
+msgid "We've got a runaway!"
+msgstr ""
+
+#. Id: 5252-gamedata.base
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape
+#: 5252-gamedata.base:9
+msgid "/HEIS/ trying to escape!"
+msgstr ""
+
+#. Id: 5252-gamedata.base
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape
+#. Id: 16183-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. Id: 41066-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41060-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slaver paladin witness assault
+#. Id: 52367-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (52366-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military kidnapping
+#. Id: 13821-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law enforcement spots prisoner escaping
+#: 5252-gamedata.base:10 16183-Dialogue.mod:7 41066-Dialogue.mod:2 52367-Dialogue.mod:4 13821-Escapes.mod:0
+msgid "Stop /HIM/!"
+msgstr ""
+
+#. Id: 5252-gamedata.base
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape
+#: 5252-gamedata.base:11
+msgid "Slave! /SEIZE/ /HIM/!"
+msgstr ""
+
+#. Id: 5252-gamedata.base
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape
+#. Id: 40886-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave
+#: 5252-gamedata.base:12 40886-Dialogue.mod:0
+msgid "Escapee! /SEIZE/ /HIM/!"
+msgstr ""
+

@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 43840-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc found intruder
+#. Id: 96163-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sand ninja shoo
+#: 43840-Dialogue.mod:0 96163-Dialogue.mod:2
+msgid "What are you doing here?!"
+msgstr ""
+
+#. Id: 43840-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc found intruder
+#: 43840-Dialogue.mod:1
+msgid "You're not meant to be here!"
+msgstr ""
+
+#. Id: 43840-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc found intruder
+#: 43840-Dialogue.mod:2
+msgid "You can't come in here!"
+msgstr ""
+
+#. Id: 43840-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc found intruder
+#: 43840-Dialogue.mod:3
+msgid "You're not allowed here!"
+msgstr ""
+
+#. Id: 43841-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (43844-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc found intruder
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 42358-Dialogue.mod
+#. -- Index: 3.8
+#. -- Parent line: 2 (12636-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43841-Dialogue.mod:2 42358-Dialogue.mod:8
+msgid "... Then you leave me no choice, intruder!"
+msgstr ""
+
+#. Id: 43841-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (43844-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc found intruder
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43841-Dialogue.mod:3
+msgid "Guess you leave me no choice, trespasser!"
+msgstr ""
+
+#. Id: 43841-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (43844-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc found intruder
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 42358-Dialogue.mod
+#. -- Index: 3.9
+#. -- Parent line: 2 (12636-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43841-Dialogue.mod:4 42358-Dialogue.mod:9
+msgid "Then I guess we'll have to do this the hard way!"
+msgstr ""
+
+#. Id: 43841-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (43844-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc found intruder
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43841-Dialogue.mod:5
+msgid "Fine, you asked for it! All in the day's work of a guard..."
+msgstr ""
+
+#. Id: 43841-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (43844-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc found intruder
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 42358-Dialogue.mod
+#. -- Index: 3.10
+#. -- Parent line: 2 (12636-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43841-Dialogue.mod:6 42358-Dialogue.mod:10
+msgid "Fine, don't say I didn't warn you!"
+msgstr ""
+

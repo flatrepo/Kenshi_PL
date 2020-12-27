@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 61451-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#. Id: 10785-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=1, Tag: -1
+#: 61451-Dialogue.mod:0 10785-Dialogue?(10).mod:1
+msgid "Tut, tut... Apparently you've been pissing off some important people lately, /YOURNAME/..."
+msgstr ""
+
+#. Id: 61451-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 61451-Dialogue.mod:1
+msgid "Oho, you're in big trouble with the nobles, /YOURNAME/..."
+msgstr ""
+
+#. Id: 61451-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 61451-Dialogue.mod:2
+msgid "You're either real dumb or real brave to mess with the nobles, /YOURNAME/..."
+msgstr ""
+
+#. Id: 61451-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 61451-Dialogue.mod:3
+msgid "Well. Looks like you got the attention of the nobles..."
+msgstr ""
+
+#. Id: 61451-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 61451-Dialogue.mod:4
+msgid "Well. Looks like you pissed off an important person..."
+msgstr ""
+
+#. Id: 61451-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 61451-Dialogue.mod:5
+msgid "Ruffled the feathers of a noble, eh, /YOURNAME/?"
+msgstr ""
+
+#. Id: 61452-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#. Id: 10786-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10785-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61452-Dialogue.mod:0 10786-Dialogue?(10).mod:0
+msgid "Allow me to introduce myself. I am one of the Empire's Elite Hunters..."
+msgstr ""
+
+#. Id: 61452-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (61451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#. Id: 10786-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (10785-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61452-Dialogue.mod:1 10786-Dialogue?(10).mod:1
+msgid "Anyway, let me introduce myself. I am an Elite Hunter of the Empire..."
+msgstr ""
+
+#. Id: 61452-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (61451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#. Id: 10786-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (10785-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61452-Dialogue.mod:2 10786-Dialogue?(10).mod:2
+msgid "Oh how rude of me! Let me introduce myself. I am an Elite Hunter of the Empire..."
+msgstr ""
+
+#. Id: 61453-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 61453-Dialogue.mod:0
+msgid "And I've been sent for your head."
+msgstr ""
+
+#. Id: 61453-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (61452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 61453-Dialogue.mod:1
+msgid "And I've been ordered to assassinate you."
+msgstr ""
+
+#. Id: 61453-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (61452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 61453-Dialogue.mod:2
+msgid "And my orders are to dispose of you."
+msgstr ""
+
+#. Id: 61453-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (61452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 61453-Dialogue.mod:3
+msgid "And I will be your exterminator for today."
+msgstr ""
+
+#. Id: 61454-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#. Id: 10788-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10787-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61454-Dialogue.mod:0 10788-Dialogue?(10).mod:0
+msgid "Charmed!"
+msgstr ""
+
+#. Id: 61454-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (61453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#. Id: 10788-Dialogue (10).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (10787-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61454-Dialogue.mod:1 10788-Dialogue?(10).mod:1
+msgid "Nice to meet you!"
+msgstr ""
+
+#. Id: 61454-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (61453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#. Id: 10788-Dialogue (10).mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (10787-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61454-Dialogue.mod:2 10788-Dialogue?(10).mod:2
+msgid "I'd shake your hand but I don't like to get too attached to my prey."
+msgstr ""
+
+#. Id: 61454-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (61453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#. Id: 10793-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (10790-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61454-Dialogue.mod:3 10793-Dialogue?(10).mod:3
+msgid "The nobles send you their love."
+msgstr ""
+
+#. Id: 61455-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=0, Tag: -1
+#: 61455-Dialogue.mod:0
+msgid "You can't outrun the nobles..."
+msgstr ""
+
+#. Id: 61455-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=0, Tag: -1
+#: 61455-Dialogue.mod:1
+msgid "Nobody messes with the nobles and lives..."
+msgstr ""
+
+#. Id: 61455-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=0, Tag: -1
+#: 61455-Dialogue.mod:2
+msgid "The nobles don't like losing face in public..."
+msgstr ""
+
+#. Id: 61455-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=0, Tag: -1
+#: 61455-Dialogue.mod:3
+msgid "You're in big trouble for what you did to the nobles..."
+msgstr ""
+
+#. Id: 61455-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=0, Tag: -1
+#: 61455-Dialogue.mod:4
+msgid "That stunt you pulled with the nobles... It was very unwise."
+msgstr ""
+
+#. Id: 61455-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=0, Tag: -1
+#. Id: 10793-Dialogue (10).mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (10790-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61455-Dialogue.mod:5 10793-Dialogue?(10).mod:6
+msgid "Looks like you got the attention of the nobles..."
+msgstr ""
+
+#. Id: 61457-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 61457-Dialogue.mod:0
+msgid "And I've been paid good money to make you suffer."
+msgstr ""
+
+#. Id: 61457-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (61455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 61457-Dialogue.mod:1
+msgid "And they won't rest until they have your head."
+msgstr ""
+
+#. Id: 61458-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 61458-Dialogue.mod:0
+msgid "So on behalf of the Empire, DIE!"
+msgstr ""
+
+#. Id: 61458-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (61457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 61458-Dialogue.mod:1
+msgid "The nobles send you their love!"
+msgstr ""
+

@@ -1,0 +1,444 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 44628-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44628-Dialogue.mod:3
+msgid "If you got Cats, I got time..."
+msgstr "Jeśli masz kasę, ja mam czas..."
+
+#. Id: 44628-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44628-Dialogue.mod:4
+msgid "Welcome, Cats- I mean- customer!"
+msgstr "Witaj, fors- znaczy - kliencie!"
+
+#. Id: 44628-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44628-Dialogue.mod:6
+msgid "'Procurement' is my specialty. You need something, I can get it..."
+msgstr "Dostarczanie to moja specjalność. Ty czegoś potrzebujesz, ja to zdobywam..."
+
+#. Id: 44628-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44628-Dialogue.mod:7
+msgid "Drugs? Organs? Hookers? I got it all..."
+msgstr "Narkotyki? Organy? Dziwki? Mam wszystko..."
+
+#. Id: 44628-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44628-Dialogue.mod:8
+msgid "Come and browse... but don't ask too many questions."
+msgstr "Podejdź i rozejrzyj się... Ale nie zadawaj zbyt wielu pytań."
+
+#. Id: 44629-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44629-Dialogue.mod:0
+msgid "How goes things, /OUTLANDER/?"
+msgstr "Jak się mają sprawy, /OUTLANDER/?"
+
+#. Id: 44629-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44629-Dialogue.mod:1
+msgid "Hoy, /OUTLANDER/, welcome!"
+msgstr "Hej, /OUTLANDER/, witaj!"
+
+#. Id: 44629-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44629-Dialogue.mod:2
+msgid "Come on in, /OUTLANDER/..."
+msgstr "Wejdź, /OUTLANDER/..."
+
+#. Id: 44629-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44629-Dialogue.mod:3
+msgid "Take a look around, /OUTLANDER/..."
+msgstr "Rozejrzyj się, /OUTLANDER/..."
+
+#. Id: 44629-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44629-Dialogue.mod:4
+msgid "Hey there..."
+msgstr "Witaj..."
+
+#. Id: 44629-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44629-Dialogue.mod:5
+msgid "Take a look at my stock, /OUTLANDER/."
+msgstr "Zobacz mój asortyment, /OUTLANDER/."
+
+#. Id: 44629-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44629-Dialogue.mod:6
+msgid "Come on in, don't mind the mess..."
+msgstr "Wejdź, nie przejmuj się bałaganem..."
+
+#. Id: 44775-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44775-Dialogue.mod:0
+msgid "No funny business in my shop, got it, /OUTLANDER/?"
+msgstr "Żadnych śmiesnzych interesów w moim sklepie, jasne, /OUTLANDER/?"
+
+#. Id: 44775-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44775-Dialogue.mod:1
+msgid "Don't try and steal anything."
+msgstr "Nie próbuj niczego kraść."
+
+#. Id: 44775-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44775-Dialogue.mod:2
+msgid "Try stealin' from me and I break your fingers."
+msgstr "Spróbuj coś ukraść to połamię ci paluchy."
+
+#. Id: 44775-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44775-Dialogue.mod:3
+msgid "Thieves get their fingers broken."
+msgstr "Złodziejom odcina się ręce."
+
+#. Id: 44775-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44775-Dialogue.mod:4
+msgid "I got no patience for thieves, got it /OUTLANDER/?"
+msgstr "Nie mam cierpliwości do złodziei, jasne, /OUTLANDER/?"
+
+#. Id: 44828-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 44828-Dialogue.mod:0
+msgid "/OI/, thief, /GETLOST/!"
+msgstr "/OI/, złodzieju, /GETLOST/!"
+
+#. Id: 44828-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 44828-Dialogue.mod:1
+msgid "Get out or I kick you out, thief!"
+msgstr "Wynoś się albo ci nakopię, złodzieju!"
+
+#. Id: 44828-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 44828-Dialogue.mod:2
+msgid "/GETLOST/, thief!"
+msgstr "/GETLOST/, złodzieju!"
+
+#. Id: 44828-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 44828-Dialogue.mod:3
+msgid "You got guts showin' your face here again, thief!"
+msgstr "Masz jaja skoro się tu pokazujesz, ścierwo!"
+
+#. Id: 44828-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 44828-Dialogue.mod:4
+msgid "You got some balls comin' back here again, thief!"
+msgstr "Masz niezłe jaja jeśli przychodzisz do mnie, złodzieju!"
+
+#. Id: 44829-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 44829-Dialogue.mod:0
+msgid "/GETLOST/, go on! Don't make me cut you!"
+msgstr "/GETLOST/, no dalej! Nie zmuszaj mnie do walki!"
+
+#. Id: 44829-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 44829-Dialogue.mod:1
+msgid "Just give me an excuse to make you bleed! Leave if you know what's good for you!"
+msgstr "Daj mi jeden powód do niezabicia cię! Wyjdź stąd jeśli ci życie miłe!"
+
+#. Id: 44829-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (44828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 44829-Dialogue.mod:2
+msgid "I ain't in a welcomin' mood! Get out, or eat steel!"
+msgstr "Nie mam nastroju na przyjemności! Wynoś się albo żryj stal!"
+
+#. Id: 44829-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (44828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 44829-Dialogue.mod:3
+msgid "I ain't in the mood to see yer ugly thievin' face! /GETLOST/!"
+msgstr "Nie mam humoru na gapienie się w twoją zakazaną mordę! /GETLOST/!"
+
+#. Id: 44829-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (44828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 44829-Dialogue.mod:4
+msgid "/GETLOST/ before I /CUTTHOSELIPS/!"
+msgstr "Wynoś się zanim cię potnę!"
+
+#. Id: 44829-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (44828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 44829-Dialogue.mod:5
+msgid "/THREAT/! Leave!"
+msgstr "Wynoś się! Won!"
+
+#. Id: 44835-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 44835-Dialogue.mod:0
+msgid "I warned you!"
+msgstr "Ostrzegałem cię!"
+
+#. Id: 44835-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (44829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 44835-Dialogue.mod:1
+msgid "Let me show you the door!"
+msgstr "Pozwól, że pokażę ci drzwi!"
+
+#. Id: 44835-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (44829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. Id: 14591-Dialogue (4).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (14579-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up
+#: 44835-Dialogue.mod:2 14591-Dialogue?(4).mod:0
+msgid "/IDIOT/!"
+msgstr ""
+
+#. Id: 44835-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (44829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 44835-Dialogue.mod:3
+msgid "Dumb /INSULT/! Shoulda left when I told you to!"
+msgstr "Głupi /INSULT/! Trzeba było wyjść gdy ostrzegałem!"
+
+#. Id: 44845-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. Id: 50547-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<12, Tag: -1
+#. Id: 9526-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<48, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>24, Tag: -1
+#: 44845-Dialogue.mod:0 50547-Dialogue.mod:1 9526-Dialogue.mod:1
+msgid "Back already?"
+msgstr "Już wracasz?"
+
+#. Id: 44845-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#: 44845-Dialogue.mod:1
+msgid "Back again, eh?"
+msgstr "Znowu wracasz?"
+
+#. Id: 44845-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. Id: 65034-october 17.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65033-october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. Id: 66259-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 44845-Dialogue.mod:2 65034-october?17.mod:0 66259-Dialogue.mod:1
+msgid "Couldn't stay away, eh?"
+msgstr "Nie udało się nie wrócić, co?"
+
+#. Id: 44845-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#: 44845-Dialogue.mod:3
+msgid "Here we go again..."
+msgstr "Znowu to samo..."
+
+#. Id: 44845-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. Id: 59331-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek law bounty
+#. Id: 18624-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#: 44845-Dialogue.mod:5 59331-Dialogue.mod:1 18624-Dialogue.mod:3
+msgid "Mm?"
+msgstr ""
+

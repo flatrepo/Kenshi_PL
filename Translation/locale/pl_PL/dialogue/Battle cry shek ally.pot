@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 99658-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cry shek ally
+#. Id: 99659-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cry shek ally
+#. Id: 59676-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (59680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Kingdom defeated (return assault)
+#. Id: 41723-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (41722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. Id: 17599-Dialogue.mod
+#. -- Index: 1.10
+#. -- Parent line: 0 (17598-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stranger interrupts Shek
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 99658-Dialogue.mod:2 99659-Dialogue.mod:5 59676-Dialogue.mod:4 41723-Dialogue.mod:4 17599-Dialogue.mod:10
+msgid "Today is a good day to die!"
+msgstr ""
+
+#. Id: 99659-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cry shek ally
+#: 99659-Dialogue.mod:0
+msgid "For the Battle Born!"
+msgstr ""
+
+#. Id: 99659-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cry shek ally
+#: 99659-Dialogue.mod:4
+msgid "Blood for the Battle Born!"
+msgstr ""
+

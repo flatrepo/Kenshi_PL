@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 8362-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#: 8362-Dialogue.mod:1
+msgid "Ouuuuch!"
+msgstr ""
+
+#. Id: 8362-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (8361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#: 8362-Dialogue.mod:2
+msgid "My leg! You broke my leg!"
+msgstr ""
+
+#. Id: 8364-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#: 8364-Dialogue.mod:0
+msgid "Aaarh! My arm!"
+msgstr ""
+
+#. Id: 8364-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#: 8364-Dialogue.mod:1
+msgid "Help, my arm's broken!"
+msgstr ""
+
+#. Id: 8366-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 8366-Dialogue.mod:0
+msgid "/OHSHIT/ my head! My head is bleeding!"
+msgstr ""
+
+#. Id: 8366-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 8366-Dialogue.mod:1
+msgid "Raaargh, my head!"
+msgstr ""
+
+#. Id: 8366-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (8361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 8366-Dialogue.mod:2
+msgid "Ouuuch!"
+msgstr ""
+
+#. Id: 8369-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#: 8369-Dialogue.mod:1
+msgid "S.... stop!"
+msgstr ""
+
+#. Id: 8371-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8371-Dialogue.mod:0
+msgid "Tch, fine"
+msgstr ""
+

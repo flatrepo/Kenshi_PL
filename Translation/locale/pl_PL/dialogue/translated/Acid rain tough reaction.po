@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2020-01-15 02:03+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55662-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#. -- Condition: My Race(s): Borealczyk or Meridiańczyk or Shek
+#: 55662-Dialogue.mod:0
+msgid "Acid rain! Take shelter!"
+msgstr "Kwaśny deszcz! Kryjcie się!"
+
+#. Id: 55662-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#. -- Condition: My Race(s): Borealczyk or Meridiańczyk or Shek
+#: 55662-Dialogue.mod:1
+msgid "The rain, it's acid! Find cover!"
+msgstr "Ten deszcze to kwas! Znajdźcie schronienie!"
+
+#. Id: 55662-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#. -- Condition: My Race(s): Borealczyk or Meridiańczyk or Shek
+#: 55662-Dialogue.mod:2
+msgid "My skin, it's burning!... Acid rain!"
+msgstr "Moja skóra piecze...! Kwas!"
+
+#. Id: 55662-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#. -- Condition: My Race(s): Borealczyk or Meridiańczyk or Shek
+#: 55662-Dialogue.mod:3
+msgid "Acid rain, find cover!"
+msgstr "Kwaśny deszcz, znajdźcie kryjówkę!"
+
+#. Id: 55662-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#. -- Condition: My Race(s): Borealczyk or Meridiańczyk or Shek
+#: 55662-Dialogue.mod:4
+msgid "Acid rain! Not good..."
+msgstr "Kwaśny deszcz! Niedobrze..."
+
+#. Id: 55759-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#. -- Condition: My Race(s): Książę Roju or Meridiańczyk or Shek
+#: 55759-Dialogue.mod:0
+msgid "Ow! That burns!"
+msgstr "Au! To piecze!"
+
+#. Id: 55759-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#. -- Condition: My Race(s): Książę Roju or Meridiańczyk or Shek
+#: 55759-Dialogue.mod:1
+msgid "Ouch, that stings!"
+msgstr "Au, to boli!"
+
+#. Id: 55759-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#. -- Condition: My Race(s): Książę Roju or Meridiańczyk or Shek
+#: 55759-Dialogue.mod:2
+msgid "/AAH/, feels like daggers on my skin!"
+msgstr "/AAH/, niczym sztylety w skórze!"
+
+#. Id: 55759-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#. -- Condition: My Race(s): Książę Roju or Meridiańczyk or Shek
+#: 55759-Dialogue.mod:3
+msgid "/OHSHIT/!... Acid rain!"
+msgstr "/OHSHIT/!... Kwaśny deszcz!"
+
+#. Id: 55760-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55759-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#: 55760-Dialogue.mod:0
+msgid "/IWE/ need to take cover."
+msgstr "Trzeba znaleźć schronienie."
+
+#. Id: 55760-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55759-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#: 55760-Dialogue.mod:1
+msgid "Take cover!"
+msgstr "Kryjcie się!"
+
+#. Id: 55761-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#: 55761-Dialogue.mod:0
+msgid "Burning rain..."
+msgstr "Płonący deszcz..."
+
+#. Id: 55761-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#: 55761-Dialogue.mod:1
+msgid "My skin... The rain is burning right through me..."
+msgstr "Moja skóra... Deszcz mnie pali na wylot..."
+
+#. Id: 55761-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#: 55761-Dialogue.mod:2
+msgid "The rain here burns like fire..."
+msgstr "Tutejszy deszcze jest jak płomienie..."
+
+#. Id: 55761-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#: 55761-Dialogue.mod:3
+msgid "Kch. Burning... This is no normal rain..."
+msgstr "Kch, piecze... To nie jest normalny deszcz..."
+
+#. Id: 55761-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#: 55761-Dialogue.mod:4
+msgid "Rrgh. Burning rain, it's eating through my skin..."
+msgstr "Rrrgh. Płonący deszcz, wżera się w moją skórę."
+
+#. Id: 55761-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#: 55761-Dialogue.mod:5
+msgid "This is no ordinary rain... It burns like fire."
+msgstr "To nie jest zwykły deszcz... Pali niczym płomienie."
+
+#. Id: 55762-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#: 55762-Dialogue.mod:0
+msgid "/IWE/ must take shelter."
+msgstr "Trzeba znaleźć schronienie."
+
+#. Id: 55762-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#: 55762-Dialogue.mod:1
+msgid "/IWE/ need to take shelter, quickly."
+msgstr "Trzeba się gdzieś szybko ukryć."
+
+#. Id: 55764-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Książę Roju or Meridiańczyk or Shek
+#: 55764-Dialogue.mod:0
+msgid "My skin! It's /FUCKING/ fizzing! FIZZING!"
+msgstr "Moja skóra! Ona skwierczy! SKWIERCZY, DO CHUJA!"
+
+#. Id: 55764-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Książę Roju or Meridiańczyk or Shek
+#: 55764-Dialogue.mod:1
+msgid "/WHATTHEFUCK/ /BULLSHIT/ is this?! My skin's burning holes!"
+msgstr "Czy to jest jakiś spierdolony dowcip?! Moja skóra ma dziury!"
+
+#. Id: 55764-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Książę Roju or Meridiańczyk or Shek
+#: 55764-Dialogue.mod:2
+msgid "/ARG/! Feels like daggers on my skin!"
+msgstr "/ARG/! Niczym sztylety pod skórą!"
+
+#. Id: 55764-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Książę Roju or Meridiańczyk or Shek
+#: 55764-Dialogue.mod:3
+msgid "My skin, MY BEAUTIFUL SKIN!"
+msgstr "Moja skóra, MOJA PIĘKNA SKÓRA!"
+
+#. Id: 55764-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Książę Roju or Meridiańczyk or Shek
+#: 55764-Dialogue.mod:4
+msgid "/AAH/, burning!... Protect my face!"
+msgstr "/AAH/, płonę...! Muszę chronić twarz!"
+
+#. Id: 55765-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55764-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#: 55765-Dialogue.mod:0
+msgid "Acid rain! Take cover!"
+msgstr "Kwaśny deszcz! Kryć się!"
+
+#. Id: 57696-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#: 57696-Dialogue.mod:5
+msgid "Ragh!"
+msgstr ""
+
+#. Id: 57696-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#: 57696-Dialogue.mod:7
+msgid "Burns!"
+msgstr "Piecze!"
+
+#. Id: 57696-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#: 57696-Dialogue.mod:9
+msgid "Ow!"
+msgstr "Au!"
+
