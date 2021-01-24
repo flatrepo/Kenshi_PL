@@ -4,7 +4,7 @@ This is a public repository of Polish translation for game Kenshi. The developme
 The aim of this translation mod is to make every dialogue and text line appear in Polish, without breaking any type of immersion the original language could generate. They might be not exact and differences between word swaps and names may appear, yet it's been done for sake of a more understandable gameplay and lore.
 
 **Where can you download the translation**
-- from [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1971301012)
+- from [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2371787869)
 - from [ModDB](https://www.moddb.com/mods/polish-localization)
 - from [FLATlabs website](https://flatlabs.pl/tlumaczenia/kenshi-pl/)
 - and from this repo
