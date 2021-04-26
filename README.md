@@ -17,4 +17,4 @@ Kenshi is "*a free-roaming squad based RPG focusing on open-ended sandbox gamepl
 You can check out the demo and/or buy the game [on Steam](https://store.steampowered.com/app/233860/Kenshi/).
 
 ## Help the team
-If you're interested in developing the translation, feel free to fork it and push the changes. You can also send files directly to FLATlabs using e-mail *opiekun@flatlabs.pl*. Or, **if you want to becoma a FLATlabber and be a part of the organisation**, contact us via *admin@flatlabs.pl*.
+If you are interested in developing the translation, feel free to fork it and push the changes. You can also send files directly to FLATlabs using e-mail *opiekun@flatlabs.pl*. Or, **if you want to becoma a FLATlabber and be a part of the organisation**, contact us via *admin@flatlabs.pl*.
