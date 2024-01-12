@@ -1,7 +1,7 @@
-Jeśli potrzebujesz pomocy, chcesz podzielić się screenem albo stworzyłeś moda, zajrzyj na nieoficjalną, fanowską stronę Kenshi - www.kenshi.pl.
-Otrzymujesz karę -10 do Otwierania zamków, kiedy otwierasz własną klatkę.
-Otrzymywanie obrażeń najszybciej podnosi twoje umiejętności obrony.
-Walka z silniejszymi przeciwnikami o wiele szybciej podnosi umiejętności walki. Walczenie ze słabszymi nie nauczy cię wiele.
+Spolszczenie, którego korzystasz, zostało przygotowane przez grupę FLATlabs. Więcej o nas możesz przeczytać na www.flatlabs.pl. Dziękujemy za szansę!
+Jeśli otwierasz zamek własnej klatki, otrzymujesz karę -10 do Otwierania zamków.
+Otrzymywanie obrażeń najszybciej podnosi umiejętności obrony twojej postaci.
+Walka z silniejszymi przeciwnikami o wiele szybciej podniesie umiejętności walki. Walczenie ze słabszymi nie nauczy cię wiele.
 Niektóre technologie można odkryć tylko przez znajdywanie projektów. Niektóre z nich można kupić w sklepach.
 Jeśli cała twoja drużyna zostanie pokonana, każdy żywy będzie udawać martwego aż przeciwnik odejdzie na bezpieczną odległość. Możesz ich zawsze zmusić do wstania wydając rozkaz, co także podniesie ich Wytrzymałość.
 Zbyt wiele ciał rozkładających się na ziemi może przyciągnąć padlinożerców.
