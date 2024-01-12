@@ -6,7 +6,7 @@ The aim of this translation mod is to make every dialogue and text line appear i
 **Where can you download the translation**
 - from [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2371787869)
 - from [ModDB](https://www.moddb.com/mods/polish-localization)
-- from [FLATlabs website](https://flatlabs.pl/tlumaczenia/kenshi-pl/)
+- from [NexusMods](https://www.nexusmods.com/kenshi/mods/529)
 - and from this repo
 
 **Instruction describing the process of installation can be found inside mod files**.
